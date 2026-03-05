@@ -48,8 +48,8 @@ nav:
           - T1 Logistics: ships/support/t1-logistics.md
 
   - Fitting:
-      - Overview: fitting/index.md
-      - Basics: fitting/fitting-basics.md
+      - Overview: fittings/index.md
+      - Basics: fittings/fitting-basics.md
 
   - Faction-Warfare:
       - Overview: faction-warfare/index.md
