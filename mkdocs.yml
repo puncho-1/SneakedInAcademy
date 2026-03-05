@@ -11,9 +11,9 @@ theme:
     accent: blue
   features:
     - navigation.instant
-    - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.expand
     - navigation.top
     - content.code.copy
 
@@ -24,7 +24,9 @@ nav:
       - Overview: industry/index.md
       - Basics: industry/industry-basics.md
       - Mining:
-          - Basics: mining/mining-basics.md
+          - Ores: industry/mining/ores.md
+          - Ice: industry/mining/ice.md
+          - Gas: industry/mining/gas.md
       - Production:
           - Basics: production/production-basics.md
       - Research:
@@ -36,10 +38,8 @@ nav:
   - Ships:
       - Overview: ships/index.md
       - Frigates & Destroyers:
-          - Overview: ships/frigates-destroyers/overview.md
           - Kikimora: ships/frigates-destroyers/kikimora.md
       - Beginner Cruisers:
-          - Overview: ships/beginner-cruisers/overview.md
           - Caracal: ships/beginner-cruisers/caracal.md
           - Rupture: ships/beginner-cruisers/rupture.md
       - Advanced:
@@ -49,7 +49,12 @@ nav:
 
   - Fitting:
       - Overview: fittings/index.md
-      - Basics: fittings/fitting-basics.md
+      - Frigates: fittings/frigates.md
+      - Destroyers: fittings/destroyers.md
+      - Cruisers: fittings/cruisers.md
+      - Battleships: fittings/battleships.md
+      - Logistics: fittings/logistics.md
+      - Abyss: fittings/abyss.md
 
   - Faction-Warfare:
       - Overview: faction-warfare/index.md
@@ -57,16 +62,27 @@ nav:
 
   - Missions:
       - Overview: missions/index.md
-      - Basics: missions/missions-basics.md
+      - Security: missions/security.md
+      - Mining: missions/mining.md
+      - Distribution: missions/distribution.md
+      - Epic Arcs: missions/epic-arcs.md
 
   - Abyss:
       - Overview: abyss/index.md
       - Basics: abyss/abyss-basics.md
+      - Rupture: abyss/rupture.md
       - Gila T4: abyss/gila-t4.md
 
   - Links:
       - Overview: links/index.md
-      - Tools: links/tools.md
+      - Maps: links/maps.md
+      - Market: links/market.md
+      - Fitting Tools: links/fitting-tools.md
+      - Killboards: links/killboards.md
+      - Forums: links/forums.md
+      - Discord: links/discord.md
+      - Resources: links/resources.md
+      - Calculators: links/calculators.md
 
 plugins:
   - search
