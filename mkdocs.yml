@@ -1,7 +1,7 @@
 site_name: Sneaked In Academy Guides
 site_description: Guides and resources for EVE Online players
 site_author: Sneaked In
-site_url: https://SneakedInAcademy.github.io/SneakedInAcademy/
+site_url: https://sneakedinacademy.github.io/
 
 theme:
   name: material
