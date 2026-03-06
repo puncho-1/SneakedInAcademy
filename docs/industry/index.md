@@ -24,7 +24,7 @@ Die gewonnenen Rohstoffe werden anschließend raffiniert und in der Industrie we
 
 ## Production
 
-In der **[Production](../production/production-basics.md)** werden Gegenstände mithilfe von **Blueprints** hergestellt.  
+In der **[Production](../production/index.md)** werden Gegenstände mithilfe von **Blueprints** hergestellt.  
 
 Spieler können damit unter anderem produzieren:
 
@@ -40,7 +40,7 @@ Die Effizienz der Produktion hängt von Skills, Strukturboni und optimierten Pro
 
 ## Research
 
-Mit **[Research](../research/research-basics.md)** können Blueprints verbessert werden.
+Mit **[Research](../research/index.md)** können Blueprints verbessert werden.
 
 Dabei gibt es zwei wichtige Werte:
 
@@ -53,7 +53,7 @@ Durch Forschung lassen sich Produktionskosten deutlich senken.
 
 ## Planetary Interaction
 
-Bei **[Planetary Interaction](../planetary-interaction/pi-basics.md)** werden Ressourcen direkt von Planeten gewonnen.
+Bei **[Planetary Interaction](../planetary-interaction/index.md)** werden Ressourcen direkt von Planeten gewonnen.
 
 Spieler bauen dabei ein Netzwerk aus:
 
