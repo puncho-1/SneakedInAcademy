@@ -1,94 +1,146 @@
-# Gas Mining Basics
+# Gas Harvesting
 
-Gas Mining ist eine spezielle Form des Minings in EVE Online, bei der Spieler **Gaswolken (Gas Clouds)** abbauen.  
-Diese Ressourcen werden hauptsächlich für **Reaktionen, Booster-Produktion und bestimmte industrielle Prozesse** benötigt.
+**Gas Harvesting** ist eine spezielle Form des Minings in EVE Online.
 
-Gas Mining findet häufig in speziellen Sites statt und kann besonders lukrativ sein, ist aber oft auch mit höheren Risiken verbunden.
+Dabei werden keine normalen Asteroiden oder Eisvorkommen abgebaut, sondern **Gaswolken**.  
+Das gewonnene Gas wird vor allem für **Booster**, **Tech-III-Produktion** und bestimmte industrielle Prozesse genutzt.
 
----
+Gas Harvesting ist besonders interessant für Spieler, die:
 
-## Gas Sites
-
-Gas wird nicht in normalen Asteroidenfeldern gefunden, sondern in sogenannten **Gas Sites**.
-
-Diese Sites können erscheinen in:
-
-- Highsec
-- Lowsec
-- Nullsec
-- Wormholes
-
-Viele Gas Sites müssen zunächst über **Scanning** mit Core Scanner Probes gefunden werden.
-
-Je nach Region enthalten die Sites unterschiedliche Gasarten.
+- neue Einnahmequellen suchen
+- Exploration mit Mining verbinden wollen
+- sich später für fortgeschrittene Industrie interessieren
 
 ---
 
-## Gas-Produkte
+## Was Gas von Ore und Ice unterscheidet
 
-Gas wird hauptsächlich für fortgeschrittene industrielle Prozesse verwendet.
+Gas ist eine eigene Rohstoffart und funktioniert nicht genauso wie klassisches Ore Mining.
 
-Typische Anwendungen sind:
+| Rohstoff | Hauptnutzung |
+|---|---|
+| Ore | Mineralien für allgemeine Industrie |
+| Ice | Treibstoff und Infrastruktur |
+| Moon Ore | fortgeschrittene Industrie und Reaktionen |
+| Gas | Booster, Tech-III-Produktion und Reaktionen |
 
-- **Reactions**
-- **Booster-Produktion**
-- bestimmte Tech II Produktionsketten
-
-Einige Gasarten sind besonders wertvoll, da sie nur in bestimmten Regionen oder Wormholes vorkommen.
-
----
-
-## Gas Mining Schiffe
-
-Für Gas Mining werden spezielle Module verwendet.
-
-Die wichtigsten sind:
-
-- **Gas Cloud Harvesters**
-
-Typische Schiffe für Gas Mining:
-
-- Venture (besonders beliebt für Anfänger)
-- Prospect
-- andere Exploration- oder Mining-Schiffe
-
-Die Venture ist besonders geeignet, da sie:
-
-- einen Bonus auf Gas Mining besitzt
-- günstig ist
-- relativ leicht zu skillen ist
+Gas wird also nicht hauptsächlich zu normalen Mineralien verarbeitet, sondern für spezialisiertere Produktionsketten genutzt.
 
 ---
 
-## Skills
+## Wie Gas Harvesting funktioniert
 
-Die wichtigsten Skills für Gas Mining sind:
+Gas Harvesting läuft grundsätzlich ähnlich wie anderes Mining:
 
-- **Gas Cloud Harvesting** – ermöglicht das Abbauen von Gas
-- **Mining Frigate** – verbessert die Effizienz der Venture
-- **Expedition Frigates** – für fortgeschrittene Gas-Mining-Schiffe
+1. eine Gas Site finden
+2. zur Gaswolke warpen
+3. passende Gas-Module aktivieren
+4. Gas abbauen
+5. Gas transportieren oder weiterverarbeiten
 
-Mit besseren Skills kann Gas deutlich schneller abgebaut werden.
+Der Unterschied ist:
 
----
-
-## Risiken
-
-Viele Gas Sites befinden sich in gefährlicheren Regionen.
-
-Mögliche Risiken sind:
-
-- NPC-Spawns in bestimmten Sites
-- andere Spieler
-- begrenzte Fluchtmöglichkeiten in Wormholes
-
-Deshalb wird Gas Mining häufig mit schnellen oder gut getarnten Schiffen durchgeführt.
+- Gas befindet sich in **Gaswolken**
+- viele Gas Sites müssen zuerst **gescannt** werden
+- Gas Mining ist oft stärker mit **Exploration** verbunden als klassisches Ore Mining
 
 ---
 
-## Weiterführende Themen
+## Typische Schiffe für Gas
 
-- [Industry Basics](../index.md)
-- [Ores Mining](ores.md)
-- [Ice Mining](ice.md)
-- [Reactions](../reactions.md)
+Das klassische Einsteigerschiff für Gas Harvesting ist die **Venture**.
+
+| Schiff | Eignung für Gas |
+|---|---|
+| Venture | sehr gut für den Einstieg |
+| Venture Consortium Issue | starke Gas- und Mining-Variante |
+| Pioneer | kann Boni auf Gas haben, ist aber nicht die typische Anfängerplattform |
+| Barges / Exhumer | für spezielle Setups möglich, aber meist kein erster Schritt |
+
+Die Venture bleibt für viele Spieler das wichtigste Einstiegsschiff, weil sie günstig, flexibel und vergleichsweise sicher ist.
+
+---
+
+## Gas-Module
+
+Für Gas Harvesting werden spezielle Module genutzt.
+
+| Modul | Nutzung |
+|---|---|
+| Gas Cloud Scoop | Standardmodul für Gaswolken |
+| passende Upgrades | verbessern Reichweite, Dauer oder Effizienz |
+| unterstützende Rigs | je nach Setup nützlich |
+
+Wichtig sind dabei vor allem:
+
+- Yield
+- Reichweite
+- Zykluszeit
+
+---
+
+## Wo man Gas findet
+
+Gas findet man nicht einfach in jedem normalen Asteroid Belt.
+
+| Ort | Typische Eigenschaft |
+|---|---|
+| gescannte Gas Sites | häufigster Fall |
+| spezielle Regionen | je nach Gasart unterschiedlich |
+| gefährlichere Gebiete | oft wertvolleres Gas |
+
+Für Anfänger wichtig:
+
+- viele Gas Sites müssen erst mit Scanning gefunden werden
+- nicht jede Region eignet sich gleich gut
+- Gas Sites können gefährlicher sein als normales Highsec Ore Mining
+
+---
+
+## Gas Harvesting vs. Ore Mining
+
+| Punkt | Ore Mining | Gas Harvesting |
+|---|---|---|
+| Einstieg | sehr einfach | etwas spezieller |
+| Fundorte | leicht zugänglich | oft erst scannen |
+| Nutzung | breite Industrie | spezialisierte Produktion |
+| typische Anfängerplattform | Venture / Barge | Venture |
+| Risiko | oft geringer | je nach Site höher |
+
+Für viele neue Spieler ist **Ore Mining** der einfachere Einstieg.  
+**Gas Harvesting** wird interessant, wenn man bereits erste Mining- oder Scanning-Erfahrung gesammelt hat.
+
+---
+
+## Für wen Gas besonders interessant ist
+
+Gas Harvesting lohnt sich oft für Spieler, die:
+
+- gern mit der **Venture** unterwegs sind
+- Exploration und Ressourcenabbau kombinieren wollen
+- ein flexibles Solo-Gameplay mögen
+- später Richtung **Booster**, **Tech III** oder spezialisierte Industrie gehen wollen
+
+---
+
+## Tipps für neue Spieler
+
+- beginne mit der **Venture**
+- lerne zuerst die Grundlagen von **Scanning** und **Überleben**
+- unterschätze das Risiko in unbekannten Sites nicht
+- Gas ist oft wertvoll, aber nicht immer der einfachste Einstieg
+- für reine Anfänger ist Ore Mining meist leichter verständlich
+
+---
+
+## Zusammenfassung
+
+Gas Harvesting ist eine spezielle Form des Minings, bei der Gaswolken für fortgeschrittene Industrie, Booster und Tech-III-Produktion abgebaut werden.
+
+Für neue Spieler sind vor allem diese Punkte wichtig:
+
+- Gas ist eine eigene Rohstoffart
+- die **Venture** ist das typische Einstiegsschiff
+- viele Gas Sites müssen zuerst gescannt werden
+- Gas Harvesting ist oft spezieller und riskanter als Ore Mining
+- später kann Gas eine sehr interessante Spezialisierung sein

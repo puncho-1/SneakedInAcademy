@@ -1,101 +1,153 @@
-# Industry Basics
+# Industry
 
-Die **Industry** in EVE Online umfasst alle Aktivitäten rund um das Sammeln, Verarbeiten und Produzieren von Materialien und Gegenständen.  
-Sie ist einer der wichtigsten Bereiche der Spielwirtschaft und ermöglicht es Spielern, nahezu alles herzustellen, was im Spiel verwendet wird – von Munition über Module bis hin zu Schiffen und Strukturen.
+**Industry** umfasst in EVE Online alle Aktivitäten, mit denen aus Rohstoffen, Materialien und Blaupausen neue Gegenstände hergestellt oder weiterverarbeitet werden.
 
-Industry ist eng mit vielen anderen Spielmechaniken verbunden und bildet die Grundlage für Handel, Krieg und wirtschaftliche Macht im Universum von New Eden.
+Dazu gehören unter anderem:
 
----
+- Rohstoffe abbauen
+- Erze und andere Materialien verarbeiten
+- Gegenstände produzieren
+- Forschung an Blueprints
+- Planetary Interaction
+- Reaktionen und fortgeschrittene Industrieprozesse
 
-## Mining
-
-Mining ist der erste Schritt vieler industrieller Produktionsketten.  
-Dabei werden Rohstoffe aus Asteroidenfeldern oder speziellen Sites abgebaut.
-
-Es gibt verschiedene Arten von Ressourcen:
-
-- **[Ores](mining/ores.md)** – klassische Asteroiden, die zu Mineralien wie Tritanium oder Pyerite verarbeitet werden  
-- **[Ice](mining/ice.md)** – Eisblöcke, die wichtige Treibstoffe und Komponenten liefern  
-- **[Gas](mining/gas.md)** – seltene Ressourcen, die vor allem für Reaktionen und bestimmte Produktionsketten benötigt werden  
-
-Die gewonnenen Rohstoffe werden anschließend raffiniert und in der Industrie weiterverarbeitet.
+Industry ist einer der wichtigsten Bereiche der Wirtschaft in New Eden und verbindet viele andere Spielsysteme miteinander.
 
 ---
 
-## Production
+## Was gehört zu Industry?
 
-In der **[Production](../production/index.md)** werden Gegenstände mithilfe von **Blueprints** hergestellt.  
+Industry ist kein einzelnes Feature, sondern ein großer Sammelbegriff für mehrere Bereiche.
 
-Spieler können damit unter anderem produzieren:
+| Bereich | Kurz erklärt |
+|---|---|
+| Mining | Rohstoffe wie Ore, Ice oder Gas abbauen |
+| Reprocessing | Erz und andere Materialien in nutzbare Rohstoffe umwandeln |
+| Production | Schiffe, Module, Munition und andere Items herstellen |
+| Research | Blueprints verbessern oder kopieren |
+| Planetary Interaction | Materialien auf Planeten gewinnen und weiterverarbeiten |
+| Reactions | fortgeschrittene Materialien aus speziellen Rohstoffen herstellen |
 
+---
+
+## Warum Industry wichtig ist
+
+Fast jeder Gegenstand in EVE Online muss irgendwann:
+
+- abgebaut
+- verarbeitet
+- hergestellt
+- transportiert
+- verkauft
+
+werden.
+
+Industry ist deshalb die Grundlage für:
+
+- Schiffe
 - Module
 - Munition
-- Drohnen
-- Schiffe
-- Strukturen
+- Fuel
+- Infrastruktur
+- viele Handels- und Versorgungsprozesse
 
-Die Effizienz der Produktion hängt von Skills, Strukturboni und optimierten Produktionsketten ab.
-
----
-
-## Research
-
-Mit **[Research](../research/index.md)** können Blueprints verbessert werden.
-
-Dabei gibt es zwei wichtige Werte:
-
-- **Material Efficiency (ME)** – reduziert die benötigten Materialien
-- **Time Efficiency (TE)** – reduziert die Produktionszeit
-
-Durch Forschung lassen sich Produktionskosten deutlich senken.
+Ohne Industry funktioniert die Wirtschaft in EVE nicht.
 
 ---
 
-## Planetary Interaction
+## Für wen Industry interessant ist
 
-Bei **[Planetary Interaction](../planetary-interaction/index.md)** werden Ressourcen direkt von Planeten gewonnen.
+Industry ist besonders interessant für Spieler, die:
 
-Spieler bauen dabei ein Netzwerk aus:
+- gern wirtschaftlich denken
+- eigene Projekte planen
+- unabhängig produzieren möchten
+- Mining, Handel und Produktion verbinden wollen
+- langfristig Strukturen und Supply Chains verstehen möchten
 
-- Extraktoren
-- Fabriken
-- Lagerstätten
-- Raumhäfen
+Industry kann sowohl **einfach** als auch **sehr komplex** sein.
 
-Die produzierten Güter werden häufig für Strukturen, Treibstoffe oder fortgeschrittene Produktionsketten benötigt.
+Ein neuer Spieler kann schon früh mit einfachen Schritten beginnen, zum Beispiel mit:
 
----
-
-## Reactions
-
-**[Reactions](reactions.md)** sind ein spezieller Industrieprozess, der hauptsächlich im Nullsec und Lowsec stattfindet.
-
-Dabei werden bestimmte Materialien – oft aus Gas oder Mondmineralien – zu wertvolleren Komponenten verarbeitet, die für fortgeschrittene Industrieprodukte benötigt werden.
+- Mining
+- Reprocessing
+- einfachen Produktionen
+- Planetary Interaction
 
 ---
 
-## Industry als Wirtschaftssystem
+## Typische Einstiege in Industry
 
-Industry ist nicht nur Produktion, sondern Teil eines größeren wirtschaftlichen Systems.
+Viele Spieler beginnen Industry nicht direkt mit komplexer Produktion, sondern in kleinen Schritten.
 
-Typische Schritte in einer Produktionskette sind:
+| Einstieg | Beschreibung |
+|---|---|
+| Mining | Rohstoffe selbst abbauen |
+| Reprocessing | Erz in Mineralien umwandeln |
+| einfache Produktion | kleine Items oder Munition herstellen |
+| Research | erste Blueprints verstehen |
+| PI | passives Einkommen und Materialien aufbauen |
 
-1. Rohstoffe abbauen oder kaufen
-2. Materialien raffinieren
-3. Komponenten produzieren
-4. Endprodukte herstellen
-5. Produkte auf dem Markt verkaufen
-
-Viele Spieler spezialisieren sich auf einzelne Teile dieser Kette, während andere komplette Produktionsnetzwerke betreiben.
+So wächst Industry oft Schritt für Schritt.
 
 ---
 
-## Weiterführende Themen
+## Industry ist eng mit anderen Bereichen verbunden
 
-Wenn du tiefer in einzelne Bereiche einsteigen möchtest, findest du hier detailliertere Guides:
+Industry steht nicht für sich allein.
 
-- [Mining](mining/ores.md)
-- [Production Basics](../production/index.md)
-- [Research Basics](../research/index.md)
-- [Planetary Interaction](../planetary-interaction/index.md)
-- [Reactions](reactions.md)
+| Bereich | Verbindung zu Industry |
+|---|---|
+| Mining | liefert Rohstoffe |
+| Handel | verkauft fertige Produkte oder Materialien |
+| PvE | liefert Loot und manchmal Materialien |
+| Exploration | liefert spezielle Komponenten und Ressourcen |
+| Corporation Logistics | transportiert Materialien und Produkte |
+| Planetary Interaction | ergänzt Produktionsketten |
+
+Gerade in Corporations und Allianzen ist Industry oft ein wichtiger Teil der Versorgung.
+
+---
+
+## Typische Lernreihenfolge
+
+Für neue Spieler ist diese Reihenfolge oft sinnvoll:
+
+| Stufe | Thema |
+|---|---|
+| 1 | Mining Basics |
+| 2 | Ores, Ice und Gas verstehen |
+| 3 | Reprocessing lernen |
+| 4 | Blueprints und Production verstehen |
+| 5 | Research und PI ergänzen |
+| 6 | später Reactions und komplexe Produktionsketten |
+
+Nicht jeder Spieler muss alle Bereiche lernen.  
+Oft reicht es, zuerst einen kleinen Teil gut zu verstehen.
+
+---
+
+## Bereiche in diesem Abschnitt
+
+In diesem Bereich findest du Grundlagen zu wichtigen Industry-Themen wie:
+
+- Mining
+- Production
+- Research
+- Reactions
+
+Je nach Interesse kannst du dich von hier aus in einzelne Themen weiter vertiefen.
+
+---
+
+## Zusammenfassung
+
+Industry ist das wirtschaftliche Rückgrat von EVE Online.
+
+Für neue Spieler sind vor allem diese Punkte wichtig:
+
+- Industry besteht aus mehreren Teilbereichen
+- Mining ist oft der einfachste Einstieg
+- Produktion, Forschung und Verarbeitung bauen darauf auf
+- Industry kann klein anfangen und später sehr komplex werden
+- viele andere Spielbereiche hängen direkt mit Industry zusammen

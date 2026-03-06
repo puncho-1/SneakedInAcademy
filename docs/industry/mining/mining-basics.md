@@ -13,6 +13,17 @@ Viele Spieler beginnen im Highsec mit einfachem Asteroid Mining und entwickeln s
 
 ---
 
+## Überblick
+
+| Schiff | Rolle | Stärken | Schwächen |
+|---|---|---|---|
+| Venture | Einsteiger und flexibel | günstig, mobil, auch für Gas geeignet | niedriger Ertrag |
+| Pioneer | früher Erz-Fokus | stärkerer früher Zwischenschritt | kein Ersatz für Barges |
+| Retriever | bequemes Solo-Mining | großer Ore Hold, wenig Micromanagement | weniger Yield |
+| Covetor | aktives Yield-Mining | hoher Ertrag | kleiner Ore Hold, schwacher Tank |
+
+---
+
 ## Einstiegsschiffe
 
 Für neue Spieler gibt es mehrere typische Mining-Schiffe, die den Einstieg erleichtern.
@@ -28,13 +39,13 @@ Das **Venture** ist das klassische Einsteigerschiff für Miner.
 - sehr günstig
 - benötigt nur wenige Skills
 - kann sowohl Erz als auch Gas abbauen
-- besitzt eingebaute **Warp Core Strength**, wodurch es schwerer zu scrammen ist
+- besitzt eingebaute **Warp Core Strength**
 - spezieller Ore Hold für Erz
 
 #### Typische Nutzung
 
 - Einstieg ins Mining
-- Gas Mining
+- Gas Harvesting
 - Mining in gefährlicheren Regionen
 - Exploration-Gas Sites
 
@@ -44,41 +55,26 @@ Das Venture bleibt auch später noch relevant, besonders für **Gas Harvesting**
 
 ### Pioneer
 
-Die **Pioneer** ist ein spezialisierter Mining-Zerstörer, der als Belohnung für die **Fractured Legacy Epic Arc** eingeführt wurde.
-
-Sie schließt die Lücke zwischen der **Venture** und den größeren **Mining Barges** und bietet neuen Spielern eine stärkere Option für frühen Erzabbau.
+Die **Pioneer** ist ein spezialisierter Mining-Zerstörer und schließt die Lücke zwischen **Venture** und **Mining Barges**.
 
 #### Eigenschaften
 
-**Hoher Ertrag**
-
-- verfügt über **3 Turret-Slots**
-- erreicht etwa **35 % mehr Mining-Yield als eine Venture**
-
-**Größerer Laderaum**
-
-- etwa **8.000 m³ Ore Hold**
-- ermöglicht längere Mining-Zyklen ohne häufiges Entladen
-
-**Spezialisierte Boni**
-
-- Bonus auf **Mining-Reichweite**
-- Unterstützung der **Mining Critical Hits Mechanik**
-
-**Zugänglichkeit**
-
-- ideal für **Alpha-Klone**
-- benötigt keine komplexen oder hochstufigen Skills
+- guter Zwischenschritt zwischen Einsteigerschiffen und Barges
+- höherer Erz-Ertrag als eine Venture
+- größerer Ore Hold als frühe Einsteigerschiffe
+- Bonus auf Mining-Reichweite
+- auch für Alpha-Klone interessant
 
 #### Typische Nutzung
 
-- effizienter Erzabbau ohne Zugriff auf Mining Barges
-- Abschluss der **Fractured Legacy Missionen**
-- sicherer Erzabbau im **Highsec**
+- früher Erzabbau im Highsec
+- Übergang von Venture zu Barges
+- Mining für Spieler, die mehr Ertrag als mit einer Venture wollen
 
 #### Hinweis
 
-Während die **Venture** weiterhin das beste Einsteigerschiff für **Gas Mining** bleibt, ist die **Pioneer** aktuell die stärkere Wahl für **reinen Erzabbau im frühen Spielverlauf**.
+Die normale **Pioneer** hat **keinen eigenen Bonus auf Mining Critical Hits**.  
+Wenn du mehr über Crits wissen willst, siehe: **[Mining Critical Hits](mining-critical-hits.md)**
 
 ---
 
@@ -89,7 +85,7 @@ Der **Retriever** gehört zu den **Mining Barges**.
 #### Eigenschaften
 
 - sehr großer Ore Hold
-- lange Mining-Zeit ohne Station anzufliegen
+- lange Mining-Zeit ohne häufiges Entladen
 - relativ schwacher Tank
 
 #### Typische Nutzung
@@ -104,7 +100,7 @@ Der Retriever ist besonders beliebt bei Spielern, die **lange Mining-Zyklen ohne
 
 ### Covetor
 
-Der **Covetor** ist ebenfalls ein Mining Barge, fokussiert sich jedoch vollständig auf maximalen **Yield**.
+Der **Covetor** ist ebenfalls eine Mining Barge, fokussiert sich jedoch stärker auf maximalen **Yield**.
 
 #### Eigenschaften
 
@@ -122,6 +118,15 @@ Viele Spieler wechseln vom **Retriever** auf den **Covetor**, wenn sie aktiver s
 
 ---
 
+## Retriever vs. Covetor
+
+| Schiff | Ore Hold | Yield | Tank | Spielstil |
+|---|---|---|---|---|
+| Retriever | groß | mittel | eher schwach | entspannt, solo |
+| Covetor | klein | hoch | eher schwach | aktiv, mit Support |
+
+---
+
 ## Wichtige Begriffe
 
 Beim Mining tauchen einige Begriffe immer wieder auf.
@@ -135,13 +140,13 @@ Beim Mining tauchen einige Begriffe immer wieder auf.
 Der Yield hängt unter anderem ab von:
 
 - Schiff
-- Mining-Module (Mining Laser / Strip Miner)
+- Mining-Modulen
 - Skills
 - Mining Crystals
 - Mining Boosts
-- Implantate
+- Implantaten
 
-Ein höherer Yield bedeutet mehr Erz pro Zyklus und somit mehr Einkommen.
+Ein höherer Yield bedeutet mehr Erz pro Zyklus und damit mehr Einkommen.
 
 ---
 
@@ -154,12 +159,34 @@ Ein Teil des Asteroiden verschwindet, ohne dass der Miner dieses Erz erhält.
 
 #### Beispiel
 
-- 100 Einheiten Erz werden abgebaut
-- zusätzlich 30 Einheiten werden als Waste zerstört
+| Vorgang | Menge |
+|---|---:|
+| tatsächlich erhaltenes Erz | 100 |
+| zusätzlich zerstörtes Erz durch Waste | 30 |
+| gesamter Verlust des Asteroiden | 130 |
 
-Der Asteroid verliert also **130 Einheiten**, obwohl du nur **100 Einheiten erhältst**.
+Waste wurde eingeführt, um Mining-Module und Mining-Kristalle stärker zu unterscheiden. Manche Setups bauen schneller ab, zerstören aber auch mehr Erz.
 
-Waste wurde eingeführt, um Mining-Module und Mining-Kristalle stärker zu differenzieren. Einige Module haben höheren Yield, erzeugen aber auch mehr Waste.
+---
+
+### Mining Critical Hits
+
+Mining-Module können **kritisch treffen** und dabei **zusätzlichen Ertrag** liefern.
+
+Wichtig dabei:
+
+- Crits geben **Bonus-Ertrag**
+- der Asteroid verliert dadurch **nicht zusätzlich** Erz
+- Crits sind **nicht dasselbe wie Waste**
+
+#### Einfaches Beispiel
+
+| Fall | Normaler Zyklus | Crit-Bonus | Gesamt-Ertrag | Verlust im Asteroiden |
+|---|---:|---:|---:|---:|
+| normal | 100 | 0 | 100 | 100 |
+| Crit | 100 | 200 | 300 | 100 |
+
+Mehr dazu auf der eigenen Seite: **[Mining Critical Hits](mining-critical-hits.md)**
 
 ---
 
@@ -175,22 +202,41 @@ Diese kommen meist von speziellen Schiffen wie:
 
 Boosts können verbessern:
 
-- Mining Yield
-- Zykluszeit
-- Mining Range
+| Boost-Typ | Wirkung |
+|---|---|
+| Yield | mehr Erz pro Zyklus |
+| Zykluszeit | schnellerer Abbau |
+| Reichweite | bequemeres Mining auf Distanz |
 
 Mining in einer gut organisierten Flotte ist daher deutlich effizienter als Solo-Mining.
 
 ---
 
+## Typische Progression
+
+Viele Spieler entwickeln sich ungefähr in dieser Reihenfolge:
+
+| Stufe | Typischer Schritt |
+|---|---|
+| 1 | Venture |
+| 2 | Pioneer oder weiter Venture |
+| 3 | Retriever für bequemes Mining |
+| 4 | Covetor für mehr Yield |
+| 5 | später Exhumer, Fleet-Mining oder Spezialisierung auf Ice/Gas |
+
+Welche Reihenfolge am besten ist, hängt davon ab, ob du eher **entspannt solo** oder **aktiv mit Boosts** minen möchtest.
+
+---
+
 ## Zusammenfassung
 
-Mining ist eine einfache, aber skalierbare Aktivität in EVE Online.
+Mining ist eine einfache, aber gut skalierbare Aktivität in EVE Online.
 
-Neue Spieler beginnen typischerweise mit:
+Für neue Spieler sind vor allem diese Unterschiede wichtig:
 
-1. Pioneer (Tutorial)
-2. Venture
-3. Retriever oder Covetor
+- **Venture** für den Einstieg und Gas
+- **Pioneer** als früher Schritt für Erz
+- **Retriever** für bequemes Solo-Mining
+- **Covetor** für maximalen Yield im aktiven Mining
 
-Mit besseren Skills, Boosts und Schiffen kann Mining später ein wichtiger Teil von Industrie und Allianzwirtschaft werden.
+Mit besseren Skills, Boosts und Schiffen kann Mining später ein wichtiger Teil von Industrie, Versorgung und Allianz-Wirtschaft werden.

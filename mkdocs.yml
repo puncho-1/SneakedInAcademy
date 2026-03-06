@@ -26,6 +26,7 @@ nav:
           - Ores: industry/mining/ores.md
           - Ice: industry/mining/ice.md
           - Gas: industry/mining/gas.md
+          - Critical-Hit Mining: industry/mining/mining-critical-hits.md
       - Production:
           - Basics: production/index.md
       - Research:

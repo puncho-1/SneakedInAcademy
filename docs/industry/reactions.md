@@ -1,97 +1,168 @@
-# Reactions Basics
+# Reactions
 
-Reactions sind ein spezieller industrieller Prozess in EVE Online, bei dem Rohstoffe zu fortgeschrittenen Materialien verarbeitet werden.  
-Diese Materialien werden hauptsächlich für **Tech II Produktion, Strukturkomponenten und andere industrielle Prozesse** benötigt.
+**Reactions** sind ein spezieller Teil der Industrie in EVE Online.
 
-Reactions sind ein wichtiger Teil der industriellen Wirtschaft, besonders in Lowsec und Nullsec.
+Dabei werden bestimmte Rohstoffe in **fortgeschrittene Materialien** umgewandelt, die später für komplexere Produktionsketten genutzt werden.
 
----
+Reactions sind vor allem wichtig für:
 
-## Grundprinzip
+- Tech-II-Produktion
+- Booster und chemische Industrie
+- fortgeschrittene Materialketten
+- bestimmte spezialisierte Industrieprozesse
 
-Bei Reactions werden bestimmte Materialien miteinander kombiniert, um neue Produkte herzustellen.
-
-Typische Input-Materialien sind:
-
-- Gase
-- Mondmineralien
-- bestimmte industrielle Komponenten
-
-Diese werden in sogenannten **Reaction Formulas** verarbeitet, die ähnlich wie Blueprints funktionieren.
+Für neue Spieler sind Reactions meist **kein früher Einstieg**, aber sie sind ein wichtiger Teil der späteren Industrie.
 
 ---
 
-## Reaction Formulas
+## Was Reactions sind
 
-Für Reactions werden spezielle **Reaction Formulas** benötigt.
+Im Gegensatz zur normalen Produktion baust du bei Reactions keine fertigen Schiffe oder Module direkt.
 
-Diese bestimmen:
+Stattdessen wandelst du Rohstoffe in **Zwischenprodukte** um, die später weiterverarbeitet werden.
 
-- welche Materialien benötigt werden
-- welches Produkt entsteht
-- wie lange der Reaktionsprozess dauert
+| Aktivität | Ergebnis |
+|---|---|
+| Production | fertige Items wie Schiffe, Module oder Munition |
+| Reactions | fortgeschrittene Zwischenmaterialien |
+| Reprocessing | Rohstoffe und Materialien zurückgewinnen |
 
-Reaction Formulas sind vergleichbar mit Blueprints, können aber nicht verbessert oder erforscht werden.
-
----
-
-## Reaktionsstandorte
-
-Reactions können nicht in normalen Stationen durchgeführt werden.
-
-Sie benötigen spezielle Strukturen, zum Beispiel:
-
-- **Refineries**
-
-Diese Strukturen bieten Reaktions-Slots und können verschiedene Boni auf Reaktionen geben.
+Reactions sind also ein Bindeglied zwischen Rohstoffgewinnung und fortgeschrittener Produktion.
 
 ---
 
-## Materialien
+## Wofür Reactions genutzt werden
 
-Viele Reactions verwenden Materialien aus anderen Industry-Bereichen.
+Reactions werden vor allem genutzt, um Materialien für komplexere Produktionsketten herzustellen.
 
-Typische Quellen sind:
+Typische Einsatzbereiche:
 
-- **Gas Mining**
-- **Moon Mining**
-- bestimmte industrielle Produktionsketten
+- Materialien für **Tech-II-Produktion**
+- chemische Stoffe für **Combat Boosters**
+- spezialisierte Industriekomponenten
+- fortgeschrittene Reaktionsketten in größeren Industrieprojekten
 
-Die erzeugten Produkte werden oft als Komponenten für Tech II Items verwendet.
-
----
-
-## Skills
-
-Mehrere Skills beeinflussen die Effizienz von Reactions.
-
-Die wichtigsten sind:
-
-- **Reactions**
-- **Mass Reactions**
-- **Advanced Mass Reactions**
-
-Diese Skills erhöhen die Anzahl der gleichzeitig möglichen Reaktionsjobs.
+Gerade für Corporations und Allianzen sind Reactions oft ein wichtiger Teil der Versorgung.
 
 ---
 
-## Wirtschaftliche Bedeutung
+## Wichtige Arten von Reactions
 
-Reactions sind ein zentraler Teil der fortgeschrittenen Industrie.
+Es gibt mehrere Bereiche, in denen Reactions genutzt werden.
 
-Viele Tech II Module, Schiffe und Strukturen benötigen Materialien aus Reactions.
+| Reaktionstyp | Kurz erklärt |
+|---|---|
+| Composite Reactions | verarbeiten vor allem Moon-Materialien zu fortgeschrittenen Zwischenprodukten |
+| Biochemical Reactions | verarbeiten Gase und chemische Stoffe für Booster und verwandte Produkte |
+| Unrefined Mineral Reactions | neuere Reaktionen für unraffinierte Mineralprodukte |
 
-Spieler nutzen Reactions häufig um:
-
-- Produktionsketten zu erweitern
-- Rohstoffe weiterzuverarbeiten
-- zusätzliche Einnahmequellen zu erschließen
+Für eine Academy reicht es meist, diese grobe Unterscheidung zu verstehen.
 
 ---
 
-## Weiterführende Themen
+## Welche Struktur für Reactions benötigt wird
 
-- [Industry Basics](index.md)
-- [Gas Mining](mining/gas.md)
-- [Production Basics](../production/index.md)
-- [Research Basics](../research/index.md)
+Reactions laufen nicht einfach in jeder beliebigen Industrieanlage.
+
+Sie benötigen eine passende **Upwell Refinery** mit dem richtigen Service-Modul.
+
+| Service-Modul | Nutzung |
+|---|---|
+| Standup Composite Reactor | Composite Reactions und verwandte Reaktionen |
+| Standup Biochemical Reactor | Biochemical Reactions und Booster-bezogene Reaktionen |
+
+Ohne passende Struktur und passendes Modul können keine Reaction Jobs gestartet werden.
+
+---
+
+## Rohstoffe für Reactions
+
+Je nach Reaktion werden unterschiedliche Rohstoffe benötigt.
+
+| Rohstoffart | Typische Nutzung |
+|---|---|
+| Moon Materials | Grundlage vieler Composite Reactions |
+| Gas | wichtig für Biochemical Reactions |
+| weitere Zwischenprodukte | werden oft in mehrstufigen Ketten weiterverarbeitet |
+
+Reactions sind deshalb eng verbunden mit:
+
+- Moon Mining
+- Gas Harvesting
+- Transport und Logistik
+- fortgeschrittener Produktion
+
+---
+
+## Reactions vs. normale Produktion
+
+| Punkt | Production | Reactions |
+|---|---|---|
+| Ziel | fertige Items herstellen | Zwischenprodukte herstellen |
+| typische Inputs | Mineralien, Komponenten, Blueprints | Moon Materials, Gas, Spezialmaterialien |
+| typische Nutzung | Schiffe, Module, Munition | T2, Booster, Spezialkomponenten |
+| Einstieg | früher möglich | meist später sinnvoll |
+
+Für neue Spieler ist normale **Production** fast immer leichter verständlich als Reactions.
+
+---
+
+## Wann Reactions interessant werden
+
+Reactions werden oft dann interessant, wenn man bereits:
+
+- Mining-Grundlagen verstanden hat
+- Moon Materials oder Gas beschaffen kann
+- Produktionsketten besser verstehen möchte
+- mit einer Corporation oder Allianz zusammenarbeitet
+- Richtung Tech II, Booster oder spezialisierte Industrie gehen möchte
+
+Allein für Anfänger im Highsec sind Reactions oft noch zu speziell.  
+In einer organisierten Gruppe werden sie aber schnell wichtig.
+
+---
+
+## Typische Rolle in Corporations und Allianzen
+
+In größeren Gruppen sind Reactions oft kein Einzelthema, sondern Teil einer Lieferkette.
+
+Zum Beispiel:
+
+1. Rohstoffe abbauen
+2. Materialien transportieren
+3. Reactions laufen lassen
+4. Zwischenprodukte weiterverarbeiten
+5. fertige Items produzieren
+
+Dadurch sind Reactions oft eng mit folgenden Bereichen verbunden:
+
+- Mining
+- Logistics
+- Production
+- Market
+- Corporation Supply
+
+---
+
+## Tipps für neue Spieler
+
+- lerne zuerst **Mining, Reprocessing und Production**
+- sehe Reactions zunächst als **fortgeschrittenes Thema**
+- verstehe zuerst, woher Moon Materials und Gas kommen
+- Reactions lohnen sich besonders in Gruppen und größeren Industrieprojekten
+
+Reactions sind wichtig, aber meistens **nicht der erste Schritt** in die Industrie.
+
+---
+
+## Zusammenfassung
+
+Reactions sind ein spezieller Teil der Industrie, bei dem Rohstoffe in fortgeschrittene Zwischenmaterialien umgewandelt werden.
+
+Für neue Spieler sind vor allem diese Punkte wichtig:
+
+- Reactions stellen meist keine fertigen Items her, sondern Zwischenprodukte
+- sie sind besonders wichtig für Tech II, Booster und spezialisierte Industrie
+- dafür werden passende Upwell-Strukturen und Reaktormodule benötigt
+- Composite und Biochemical Reactions sind die wichtigsten Grundtypen
+- als Einstieg ist normale Produktion meist einfacher
