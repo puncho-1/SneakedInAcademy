@@ -50,7 +50,7 @@ nav:
   - Fitting:
       - Overview: fittings/index.md
       - Frigates: 
-          - Slasher-FW: fittings/slasher-fw.md
+          - Slasher-FW: fittings/frigates/slasher-fw.md
       - Destroyers: fittings/destroyers.md
       - Cruisers: fittings/cruisers.md
       - Battleships: fittings/battleships.md
