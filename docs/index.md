@@ -35,12 +35,13 @@ Alles rund um Ressourcen und Produktion.
 
 Grundlagen für verschiedene Schiffsklassen.
 
-- [Frigate Fittings](fittings/frigates.md)
-- [Destroyer Fittings](fittings/destroyers.md)
-- [Cruiser Fittings](fittings/cruisers.md)
-- [Battleship Fittings](fittings/battleships.md)
-- [Logistics Fittings](fittings/logistics.md)
-- [Abyss Fittings](fittings/abyss.md)
+TODO
+<!-- - [Frigate Fittings](ships/frigates.md) -->
+<!-- - [Destroyer Fittings](fittings/destroyers.md) -->
+<!-- - [Cruiser Fittings](fittings/cruisers.md) -->
+<!-- - [Battleship Fittings](fittings/battleships.md) -->
+<!-- - [Logistics Fittings](fittings/logistics.md) -->
+<!-- - [Abyss Fittings](fittings/abyss.md) -->
 
 ---
 
