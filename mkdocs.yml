@@ -28,11 +28,11 @@ nav:
           - Ice: industry/mining/ice.md
           - Gas: industry/mining/gas.md
       - Production:
-          - Basics: production/production-basics.md
+          - Basics: production/index.md
       - Research:
-          - Basics: research/research-basics.md
+          - Basics: research/index.md
       - Planetary Interaction:
-          - Basics: planetary-interaction/pi-basics.md
+          - Basics: planetary-interaction/index.md
       - Reactions: industry/reactions.md
 
   - Ships:
