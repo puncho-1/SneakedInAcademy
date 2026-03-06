@@ -5,16 +5,15 @@ Bevor du in den Abyss eintauchst, musst du dich richtig vorbereiten.
 ## Erforderliche Skills
 
 - Grundlegende Piloten-Skills (Spaceship Command, etc.)
-- Abyssal Environment Skills für höhere Tiers.
 
 ## Schiff und Fitting
 
-- Verwende ein stabiles Schiff wie die Gila oder Rattlesnake.
+- Verwende ein stabiles Schiff wie die Gila
 - Achte auf Resistances und DPS.
 
 ## Ressourcen
 
-- Kaufe Filamente von Spielern oder im Markt.
+- Kaufe Filamente im Markt.
 - Stelle sicher, dass du genug ISK für Verluste hast.
 
 ## Tipps
