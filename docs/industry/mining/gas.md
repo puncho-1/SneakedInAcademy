@@ -88,7 +88,7 @@ Deshalb wird Gas Mining häufig mit schnellen oder gut getarnten Schiffen durchg
 
 ## Weiterführende Themen
 
-- [Industry Basics](../industry-basics.md)
+- [Industry Basics](../index.md)
 - [Ores Mining](ores.md)
 - [Ice Mining](ice.md)
 - [Reactions](../reactions.md)

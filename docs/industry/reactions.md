@@ -91,7 +91,7 @@ Spieler nutzen Reactions häufig um:
 
 ## Weiterführende Themen
 
-- [Industry Basics](industry-basics.md)
+- [Industry Basics](index.md)
 - [Gas Mining](mining/gas.md)
 - [Production Basics](../production/production-basics.md)
 - [Research Basics](../research/research-basics.md)

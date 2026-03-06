@@ -126,6 +126,6 @@ Eine höhere Effizienz bedeutet, dass mehr Mineralien aus dem gleichen Erz gewon
 
 ## Weiterführende Themen
 
-- [Industry Basics](../industry-basics.md)
+- [Industry Basics](../index.md)
 - [Production Basics](../../production/production-basics.md)
 - [Research Basics](../../research/research-basics.md)

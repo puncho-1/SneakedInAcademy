@@ -84,7 +84,7 @@ Dadurch bleibt Ice Mining langfristig eine stabile Einkommensquelle für viele S
 
 ## Weiterführende Themen
 
-- [Industry Basics](../industry-basics.md)
+- [Industry Basics](../index.md)
 - [Ores Mining](ores.md)
 - [Gas Mining](gas.md)
 - [Production Basics](../../production/production-basics.md)

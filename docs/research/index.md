@@ -108,7 +108,7 @@ Verbesserte Blueprints werden häufig genutzt für:
 
 ## Weiterführende Themen
 
-- [Industry Basics](../industry/industry-basics.md)
-- [Production Basics](../production/production-basics.md)
-- [Planetary Interaction](../planetary-interaction/pi-basics.md)
+- [Industry Basics](../industry/index.md)
+- [Production Basics](../production/index.md)
+- [Planetary Interaction](../planetary-interaction/index.md)
 - [Reactions](../industry/reactions.md)
