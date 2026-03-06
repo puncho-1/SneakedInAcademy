@@ -21,7 +21,7 @@ nav:
   - Home: index.md
 
   - Industry:
-      - Basics: industry/industry-basics.md
+      - Basics: industry/index.md
       - Mining:
           - Basics: industry/mining/mining-basics.md
           - Ores: industry/mining/ores.md
