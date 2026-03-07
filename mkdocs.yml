@@ -105,6 +105,7 @@ nav:
   - Faction Warfare:
       - Overview: faction-warfare/index.md
       - Basics: faction-warfare/fw-basics.md
+      - Site Types: faction-warfare/fw-sites.md
 
   - Industry:
       - Basics: industry/index.md
