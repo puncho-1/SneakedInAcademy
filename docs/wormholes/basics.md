@@ -2,25 +2,25 @@
 
 **Wormholes** sind temporäre Verbindungen zwischen zwei Systemen in **EVE Online**.
 
-Sie können bekannten Raum mit anderem bekannten Raum verbinden, aber auch in den **Wormhole Space** führen. Für viele Spieler sind Wormholes einer der spannendsten Bereiche im Spiel, weil sie Reisen, Exploration, Gefahr und oft auch sehr gute Belohnungen miteinander verbinden.
+Im Unterschied zu normalen Stargates sind sie **nicht dauerhaft**, müssen meist erst **gescannt** werden und können jederzeit verschwinden. Genau das macht sie so spannend, aber auch so unberechenbar.
 
-Gleichzeitig sind Wormholes aber auch deutlich unberechenbarer als normale Wege über Stargates.
+Diese Seite erklärt die wichtigsten technischen und praktischen Grundlagen, die man über Wormholes wissen sollte.
 
 ---
 
-## Was ein Wormhole besonders macht
+## Wie Wormholes funktionieren
 
-Ein Wormhole funktioniert anders als ein normales Gate.
+Ein Wormhole verbindet immer zwei Systeme miteinander.
 
-Typische Eigenschaften sind:
+Dabei gilt:
 
-- es muss meist zuerst **gescannt** werden
-- es verbindet zwei Systeme nur für begrenzte Zeit
-- es hat eine begrenzte Masse, die hindurchpassen kann
-- es kann jederzeit verschwinden, wenn seine Lebensdauer endet oder zu viel Masse hindurchgeht
-- es gibt keine Garantie, dass der Rückweg dauerhaft offen bleibt
+- die Verbindung ist nur **vorübergehend**
+- sie kann in bekannten Raum oder in **Wormhole Space** führen
+- sie hat eine begrenzte **Lebensdauer**
+- sie hat eine begrenzte **Masse**
+- sie kann zusammenbrechen, wenn ihre Bedingungen erreicht sind
 
-Dadurch sind Wormholes immer auch ein Stück weit mit Unsicherheit verbunden.
+Ein Wormhole ist deshalb kein fester Reiseweg, sondern eine Gelegenheit mit eingebautem Risiko.
 
 ---
 
@@ -33,28 +33,30 @@ Ein Wormhole kann in verschiedene Gebiete führen, zum Beispiel nach:
 - Nullsec
 - Wormhole Space
 
-Nicht jedes Wormhole ist gleich wertvoll oder gleich sicher. Manche sind vor allem nützlich für Reisen, andere eher für Exploration, PvE oder Zugang zu gefährlicheren Gebieten.
+Nicht jede Verbindung ist gleich wertvoll oder gleich sicher. Manche Wormholes sind vor allem für Reisen interessant, andere eher für Exploration, PvE, Gas Harvesting oder Zugang zu gefährlicheren Gebieten.
 
 ---
 
-## Wormhole Space
+## Wormhole Space und Anoikis
 
 **Wormhole Space** wird oft auch **Anoikis** genannt.
 
-Dieser Raum unterscheidet sich deutlich vom bekannten Raum, weil es dort keine normalen Stargates zwischen den Systemen gibt. Wer sich dort bewegt, ist vollständig auf **Scanning**, **Bookmarks** und Aufmerksamkeit angewiesen.
+Dieser Raum unterscheidet sich deutlich vom bekannten Raum, weil es dort **keine normalen Stargates** zwischen den Systemen gibt. Reisen funktioniert dort nur über weitere Wormholes.
 
 Typische Merkmale von Wormhole Space:
 
 - keine Stargates
 - kein direkter normaler Zugang
-- Reisen nur über Wormholes
-- hohe Abhängigkeit von Scanning
-- oft höhere Risiken
-- oft interessante Exploration-, Gas- oder PvE-Inhalte
+- starke Abhängigkeit von **Scanning**
+- hoher Wert von **Bookmarks**
+- oft interessante Exploration-, Gas- und PvE-Inhalte
+- deutlich weniger Fehlertoleranz als im Highsec
+
+Wer sich in Wormholes bewegt, muss sich daher viel stärker auf eigene Vorbereitung und Aufmerksamkeit verlassen.
 
 ---
 
-## Die Klassen von Wormholes
+## Die Klassen von Wormhole-Systemen
 
 Wormhole-Systeme sind in verschiedene Klassen eingeteilt.
 
@@ -67,90 +69,111 @@ Wormhole-Systeme sind in verschiedene Klassen eingeteilt.
 | C5 | sehr anspruchsvoll |
 | C6 | höchste normale Wormhole-Klasse |
 
-Ganz allgemein gilt:  
-Mit steigender Klasse nehmen Gefahr, Anspruch und oft auch die möglichen Belohnungen zu.
+Ganz allgemein gilt:
 
-Für Anfänger sind vor allem **C1** und **C2** deutlich leichter zugänglich als die höheren Klassen.
+- mit steigender Klasse nehmen Gefahr und Anspruch zu
+- oft steigen auch die möglichen Belohnungen
+- für Anfänger sind **C1** und **C2** meist deutlich zugänglicher als höhere Klassen
+
+Diese Einteilung bedeutet nicht, dass niedrige Klassen automatisch sicher sind. Sie sind nur meist einfacher zu überblicken als spätere W-Space-Inhalte.
 
 ---
 
-## Lebensdauer und Masse
+## Lebensdauer eines Wormholes
 
-Jedes Wormhole ist nur **vorübergehend** vorhanden.
+Jedes Wormhole ist nur für eine begrenzte Zeit offen.
 
 Das bedeutet:
 
-- es bleibt nur für eine begrenzte Zeit offen
-- es kann nach gewisser Zeit zusammenbrechen
-- auch die gesamte Masse, die hindurchspringt, ist begrenzt
-- große oder viele Schiffe können ein Wormhole schneller schließen
+- es bleibt nicht dauerhaft bestehen
+- es kann nach einiger Zeit von selbst verschwinden
+- ein sicherer Rückweg ist nie garantiert
 
-Für Anfänger ist vor allem wichtig zu verstehen:
-Ein Wormhole ist **kein dauerhaft verlässlicher Rückweg**.
+Für Anfänger ist vor allem wichtig:
+**Ein Wormhole sollte nie wie ein stabiles Gate behandelt werden.**
 
-Wer hineinfliegt, sollte immer damit rechnen, später anders zurückscannen zu müssen.
+Wenn du hineinfliegst, musst du immer damit rechnen, später einen anderen Rückweg scannen zu müssen.
+
+---
+
+## Masse und Zusammenbruch
+
+Neben der Zeit spielt auch die **Masse** eine wichtige Rolle.
+
+Jedes Wormhole kann nur eine bestimmte Gesamtmasse durchlassen. Wenn zu viele oder zu schwere Schiffe hindurchspringen, kann das Wormhole zusammenbrechen.
+
+Praktisch heißt das:
+
+- große Schiffe belasten ein Wormhole stärker
+- viele Durchflüge können eine Verbindung schließen
+- ein Rückweg kann auch durch Bewegung anderer Spieler verschwinden
+
+Gerade in aktiven oder bewohnten Wormholes solltest du deshalb nie einfach davon ausgehen, dass eine Verbindung unverändert offen bleibt.
 
 ---
 
 ## Polarization
 
-Wenn du durch ein Wormhole springst, gibt es eine kurze Einschränkung für erneutes direktes Zurückspringen.
+Wenn du durch ein Wormhole springst, kannst du nicht beliebig oft sofort wieder zurückspringen.
 
-Das wird oft als **Polarization** bezeichnet.
+Diese kurze Einschränkung nennt man **Polarization**.
 
-Praktisch heißt das:
-Du kannst nicht unbegrenzt sofort hin und her springen, wenn es brenzlig wird.
+Praktisch bedeutet das:
 
-Gerade in gefährlichen Situationen kann das sehr wichtig sein, weil falsches oder hektisches Springen dich festsetzen oder verwundbar machen kann.
+- hektisches Hin- und Herspringen funktioniert nicht unbegrenzt
+- in Gefahrensituationen kann falsches Timing problematisch werden
+- ein Wormhole ist kein perfekter Sofort-Rettungsanker
+
+Gerade für Anfänger ist wichtig zu verstehen, dass ein schneller Rücksprung nicht immer beliebig möglich ist.
 
 ---
 
 ## Warum Bookmarks so wichtig sind
 
-In Wormholes sind **Bookmarks** extrem wichtig.
+In Wormholes sind **Bookmarks** einer der wichtigsten Grundpfeiler.
 
 Du solltest dir in der Regel markieren:
 
-- das Wormhole selbst
-- beide Seiten eines Wormholes
+- das Wormhole auf deiner aktuellen Seite
+- die Gegenseite nach dem Sprung
 - wichtige Signaturen
 - sichere Zwischenpunkte
-- mögliche Fluchtpunkte
+- mögliche Fluchtwege
 
 Ohne sauberes Bookmarking verliert man in Wormholes sehr schnell die Übersicht.
 
-Gerade für Anfänger ist das einer der wichtigsten Grundsätze überhaupt:
-**Nicht einfach nur fliegen, sondern sauber markieren.**
+Gerade für Anfänger gilt deshalb:
+**Nicht einfach nur fliegen, sondern jede wichtige Verbindung sauber markieren.**
 
 ---
 
 ## D-Scan und Aufmerksamkeit
 
-Im Wormhole zählt Aufmerksamkeit deutlich mehr als reine Skillpunkte.
+Im Wormhole zählt Aufmerksamkeit mehr als rohe Stärke.
 
 Wichtige Gewohnheiten sind:
 
-- **d-scan** regelmäßig nutzen
+- **d-scan** regelmäßig benutzen
 - nicht unnötig lange stillstehen
-- Signaturen im Blick behalten
-- Route und Rückweg kennen
+- den Rückweg kennen
+- Signaturen und Verbindungen im Blick behalten
 - jederzeit mit anderen Spielern rechnen
 
-Wormholes wirken manchmal leer oder ruhig, aber das bedeutet nicht automatisch, dass niemand da ist.
+Wormholes wirken oft ruhig oder leer, aber das bedeutet nicht automatisch, dass niemand da ist.
 
 ---
 
-## Was Anfänger in Wormholes oft falsch machen
+## Typische Anfängerfehler
 
-Typische Anfängerfehler sind:
+Viele Probleme in Wormholes entstehen durch ein paar klassische Fehler:
 
-- ohne ausreichende Probe-Vorräte losfliegen
-- keine Bookmarks setzen
-- den Rückweg nicht markieren
+- ohne ausreichende Probes losfliegen
+- keine oder schlechte Bookmarks setzen
+- den Rückweg nicht sauber markieren
 - zu lange auf einer Site bleiben
 - d-scan vernachlässigen
-- sich zu sicher fühlen, nur weil Local keine Hinweise gibt
-- mit zu teuren Schiffen starten
+- sich von einem ruhigen System täuschen lassen
+- mit zu teuren Schiffen anfangen
 
 Wormholes bestrafen oft nicht einen einzelnen großen Fehler, sondern mehrere kleine Nachlässigkeiten hintereinander.
 
@@ -173,7 +196,7 @@ Am Anfang solltest du vor allem Schiffe nutzen, die:
 - günstig ersetzbar sind
 - scannen können
 - nicht zu träge sind
-- dir Fehler verzeihen
+- dir Fehler eher verzeihen
 
 Für die ersten Erfahrungen ist ein billiges Schiff fast immer besser als ein zu teures.
 
@@ -212,8 +235,8 @@ Dadurch sind Wormholes nicht nur für eine einzige Spielweise interessant, sonde
 
 ## Kurzfazit
 
-**Wormholes** sind temporäre und oft unberechenbare Verbindungen, die zu einigen der interessantesten Inhalte in EVE Online führen können.
+**Wormhole Basics** bedeutet vor allem, zu verstehen, dass Wormholes keine stabilen, sicheren oder planbaren Verbindungen sind.
 
-Wer Wormholes verstehen will, muss vor allem lernen, sauber zu scannen, aufmerksam zu bleiben, konsequent zu bookmarken und jederzeit mit Unsicherheit umzugehen.
+Wer Wormholes sinnvoll nutzen will, muss ihre **temporäre Natur**, ihre **begrenzte Masse**, die Bedeutung von **Bookmarks** und den Wert von **Aufmerksamkeit** verstehen.
 
 Gerade deshalb sind Wormholes nicht nur spannend, sondern auch eine sehr gute Schule für sauberes Verhalten in EVE.

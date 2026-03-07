@@ -2,22 +2,17 @@
 
 **Wormholes** sind besondere Verbindungen zwischen Systemen in **EVE Online**.
 
-Sie können in normalen bekannten Raum führen, aber auch in den sogenannten **Wormhole Space** oder **Anoikis**. Für viele Spieler gehören Wormholes zu den spannendsten und gefährlichsten Bereichen des Spiels, weil sie Erkundung, Unsicherheit, Risiko und oft sehr gute Belohnungen miteinander verbinden.
+Sie können in bekannten Raum führen, aber auch in den sogenannten **Wormhole Space** oder **Anoikis**. Für viele Spieler gehören Wormholes zu den spannendsten Bereichen des Spiels, weil sie **Exploration**, **Unsicherheit**, **Risiko** und oft auch **sehr gute Belohnungen** miteinander verbinden.
 
-Gerade für neue Spieler wirken Wormholes oft geheimnisvoll oder einschüchternd. Gleichzeitig sind sie aber auch ein Bereich, in dem man viele wichtige EVE-Grundlagen lernt:
-
-- Scanning
-- Aufmerksamkeit
-- Bewegung und Bookmarking
-- Risikoabschätzung
-- selbstständiges Navigieren
-- vorsichtiges Verhalten in unsicheren Gebieten
+Gerade für neue Spieler wirken Wormholes oft geheimnisvoll oder einschüchternd. Gleichzeitig sind sie aber auch ein Bereich, in dem man viele wichtige EVE-Grundlagen lernt.
 
 ---
 
-## Was Wormholes sind
+## Was Wormholes besonders macht
 
-Wormholes sind **scanbare Cosmic Signatures**, die zwei Systeme miteinander verbinden.
+Wormholes sind keine festen Routen wie Stargates.
+
+Stattdessen handelt es sich um **temporäre Verbindungen**, die gescannt werden müssen und neue Wege in andere Gebiete öffnen können.
 
 Ein Wormhole kann zum Beispiel führen nach:
 
@@ -26,45 +21,13 @@ Ein Wormhole kann zum Beispiel führen nach:
 - Nullsec
 - Wormhole Space
 
-Wohin genau es führt, siehst du oft erst sicher, wenn du es genauer untersuchst oder hindurchspringst.
-
-Das macht Wormholes zu einem besonderen Teil von EVE:  
-Sie sind keine festen Routen wie Stargates, sondern temporäre Verbindungen, die neue Wege und neue Risiken eröffnen.
-
----
-
-## Was Wormhole Space besonders macht
-
-**Wormhole Space** unterscheidet sich deutlich von bekanntem Raum.
-
-Typische Merkmale sind:
-
-- keine normalen Stargates zwischen den Systemen
-- Zugang nur über Wormholes
-- hohe Unsicherheit
-- starke Abhängigkeit von Scanning
-- oft sehr lohnende Inhalte
-- deutlich höheres Risiko als im Highsec
-
-Wormhole Space ist in **sechs Klassen** eingeteilt:
-
-| Klasse | Kurzbeschreibung |
-|---|---|
-| C1 | niedrigere Schwierigkeit |
-| C2 | eher einfacher Einstieg in W-Space |
-| C3 | spürbar anspruchsvoller |
-| C4 | deutlich gefährlicher |
-| C5 | sehr anspruchsvoll |
-| C6 | höchste normale Wormhole-Klasse |
-
-Ganz allgemein gilt:  
-Mit steigender Klasse steigen meistens auch Schwierigkeit, Gefahr und mögliche Belohnungen.
+Dadurch sind Wormholes nicht nur ein eigener Spielbereich, sondern auch ein Werkzeug, um ungewöhnliche Routen, versteckte Inhalte und neue Chancen zu finden.
 
 ---
 
 ## Warum Wormholes interessant sind
 
-Wormholes sind für viele Spieler attraktiv, weil sie mehrere Spielstile verbinden.
+Wormholes verbinden mehrere Spielstile miteinander.
 
 Dazu gehören zum Beispiel:
 
@@ -73,23 +36,10 @@ Dazu gehören zum Beispiel:
 - Gas Harvesting
 - PvP
 - Scouting
-- Reisen über ungewöhnliche Routen
+- Reisen über ungewöhnliche Wege
 
-Dadurch sind Wormholes nicht nur ein eigener Lebensraum, sondern auch eine Art Werkzeug, um neue Gebiete zu erreichen oder Inhalte zu finden, die über normale Routen nicht so leicht zugänglich sind.
-
----
-
-## Typische Inhalte in Wormholes
-
-Je nach System und Situation findet man in Wormholes unter anderem:
-
-- Exploration-Sites
-- Kampf-Sites
-- Gas Sites
-- andere Spieler
-- temporäre Verbindungen in weitere Systeme
-
-Deshalb kann ein Wormhole sowohl für Explorer als auch für PvE-Spieler, Jäger, Scouts oder kleine Gruppen interessant sein.
+Gerade deshalb sind Wormholes für viele Spieler so spannend:  
+Sie können gleichzeitig Reisewerkzeug, Einkommensquelle, Gefahrenzone und Lernumgebung sein.
 
 ---
 
@@ -97,36 +47,31 @@ Deshalb kann ein Wormhole sowohl für Explorer als auch für PvE-Spieler, Jäger
 
 Wormholes gehören zu den unberechenbareren Bereichen in EVE.
 
-Das liegt unter anderem daran, dass du dich dort stark auf dein eigenes Verhalten verlassen musst. Wer sich schlecht vorbereitet, unaufmerksam wird oder seine Route nicht im Blick behält, gerät schnell in Probleme.
+Typische Gründe dafür sind:
 
-Typische Gefahren sind:
-
-- unklare Fluchtwege
+- keine festen Routen
+- unklare Rückwege
+- starke Abhängigkeit von Scanning
 - andere Spieler im System
-- schlechtes oder unvollständiges Scouting
-- zu wenig Bookmarks
-- zu spätes Reagieren auf Gefahr
-- Überforderung durch unbekannte Situationen
+- wenig Fehlertoleranz bei schlechter Vorbereitung
 
-Gerade für Anfänger gilt deshalb:  
+Gerade für Anfänger gilt deshalb:
 Wormholes sind nicht automatisch tödlich, aber sie bestrafen Nachlässigkeit oft sehr schnell.
 
 ---
 
 ## Was man in Wormholes lernen kann
 
-Wormholes sind ein sehr guter Lehrer für sauberes EVE-Verhalten.
+Wer regelmäßig mit Wormholes arbeitet, verbessert oft automatisch wichtige EVE-Grundlagen:
 
-Wer regelmäßig mit Wormholes arbeitet, verbessert oft automatisch:
+- Scanning
+- Aufmerksamkeit
+- Bookmarking
+- Risikoeinschätzung
+- selbstständiges Navigieren
+- vorsichtiges Verhalten in unsicheren Gebieten
 
-- sein Scanning
-- seinen Umgang mit d-scan
-- sein Bookmarking
-- seine Aufmerksamkeit
-- seine Geduld
-- seine Fähigkeit, Risiken besser einzuschätzen
-
-Selbst wenn du später nicht dauerhaft in Wormholes leben willst, sind diese Fähigkeiten fast überall im Spiel nützlich.
+Selbst wenn du später nicht dauerhaft in Wormholes leben möchtest, bleiben diese Fähigkeiten in fast allen anderen Bereichen von EVE nützlich.
 
 ---
 
@@ -135,42 +80,27 @@ Selbst wenn du später nicht dauerhaft in Wormholes leben willst, sind diese Fä
 Wormholes passen besonders gut zu Spielern, die:
 
 - gerne selbst scannen und navigieren
-- mit Unsicherheit umgehen können
 - Exploration mögen
-- ungewöhnliche Wege und Inhalte spannend finden
+- mit Unsicherheit umgehen können
+- ungewöhnliche Inhalte spannend finden
 - aufmerksam und eher vorsichtig spielen
 
-Für komplette Anfänger sind Wormholes nicht immer der allererste Schritt, aber sie sind ein sehr guter Bereich, sobald man die Grundlagen von **Scanning**, **Hacking** und **Sicherheit** etwas besser verstanden hat.
-
----
-
-## Gute erste Schritte für Anfänger
-
-Wenn du Wormholes ausprobieren möchtest, sind diese ersten Schritte sinnvoll:
-
-1. zuerst **Scanning** sicher beherrschen
-2. mit günstigen Schiffen arbeiten
-3. Wormholes zunächst eher für Exploration nutzen
-4. konsequent Bookmarks setzen
-5. immer einen Rückweg im Blick behalten
-6. nicht unnötig gierig werden
-
-Gerade am Anfang ist es oft besser, Wormholes als Lernumgebung zu sehen und nicht sofort als schnellen ISK-Drucker.
+Für komplette Anfänger sind Wormholes nicht immer der erste Schritt, aber sie werden sehr interessant, sobald die Grundlagen von **Scanning**, **Hacking** und **Sicherheit** sitzen.
 
 ---
 
 ## Hauptthemen
 
-- [Wurmloch Basics](basics.md)
+- [Wormhole Basics](basics.md)
 - [Exploration Overview](../exploration/index.md)
 - [Scanning](../exploration/scanning.md)
-- [Gas Harvesting Basics](../industry/mining/gas.md)
-- [Wurmloch Safety](safety.md)
+- [Gas Harvesting Basics](gas.md)
+- [Wormhole Safety](safety.md)
 
 ---
 
 ## Kurzfazit
 
-**Wormholes** sind temporäre Verbindungen zu unbekannten oder schwerer zugänglichen Systemen und einer der spannendsten Bereiche in EVE Online.
+**Wormholes** sind temporäre Verbindungen zu unbekannten oder schwerer zugänglichen Systemen und gehören zu den spannendsten Bereichen in EVE Online.
 
-Sie verbinden **Exploration**, **Gefahr**, **Scouting** und oft sehr gute Belohnungen. Für viele Spieler sind sie deshalb nicht nur ein besonderer Ort für Inhalte, sondern auch eine der besten Möglichkeiten, Aufmerksamkeit, Geduld und sauberes Verhalten in EVE zu lernen.
+Sie verbinden **Exploration**, **Gefahr**, **Scouting** und oft sehr gute Belohnungen. Für viele Spieler sind sie deshalb nicht nur ein besonderer Ort für Inhalte, sondern auch eine sehr gute Schule für sauberes und aufmerksames Verhalten in EVE.
