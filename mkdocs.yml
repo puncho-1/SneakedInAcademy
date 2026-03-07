@@ -40,8 +40,8 @@ nav:
       - Frigates & Destroyers:
           - Kikimora: ships/frigates-destroyers/kikimora.md
       - Beginner Cruisers:
-          - Caracal: ships/beginner-cruisers/caracal.md
-          - Rupture: ships/beginner-cruisers/rupture.md
+          - Caracal: ships/beginner_cruisers/caracal.md
+          - Rupture: ships/beginner_cruisers/rupture.md
       - Advanced:
           - Eagle: ships/advanced/eagle.md
       - Support:
@@ -49,13 +49,44 @@ nav:
 
   - Fitting:
       - Overview: fittings/index.md
-      - Frigates: 
-          - Slasher-FW: fittings/frigates/slasher-fw.md
-      - Destroyers: fittings/destroyers.md
-      - Cruisers: fittings/cruisers.md
-      - Battleships: fittings/battleships.md
-      - Logistics: fittings/logistics.md
-      - Abyss: fittings/abyss.md
+      - Faction Warfare:
+          - Overview: fittings/faction-warfare/index.md
+          - Slasher FW: fittings/faction-warfare/slasher-fw.md
+      - Abyss:
+          - Overview: fittings/abyss/index.md
+          - Single:
+              - Overview: fittings/abyss/single/index.md
+              - Gila T4: fittings/abyss/single/gila-t4.md
+          - Duo:
+              - Overview: fittings/abyss/duo/index.md
+          - Trio:
+              - Overview: fittings/abyss/trio/index.md
+      - Missions:
+          - Overview: fittings/missions/index.md
+          - Security:
+              - Overview: fittings/missions/security/index.md
+              - Caracal L2: fittings/missions/security/caracal-l2.md
+          - Distribution:
+              - Overview: fittings/missions/distribution/index.md
+          - Mining:
+              - Overview: fittings/missions/mining/index.md
+      - Mining:
+          - Overview: fittings/mining/index.md
+          - Frigates:
+              - Overview: fittings/mining/frigates/index.md
+              - Venture Highsec: fittings/mining/frigates/venture-highsec.md
+          - Destroyers:
+              - Overview: fittings/mining/destroyers/index.md
+          - Barges:
+              - Overview: fittings/mining/barges/index.md
+          - Exhumers:
+              - Overview: fittings/mining/exhumers/index.md
+      - Logistics:
+          - Overview: fittings/logistics/index.md
+          - T1 Logi Basic: fittings/logistics/t1-logi-basic.md
+      - Hauler:
+          - Overview: fittings/hauler/index.md
+          - Fast Align: fittings/hauler/fast-align.md
 
   - Faction-Warfare:
       - Overview: faction-warfare/index.md
@@ -66,7 +97,10 @@ nav:
       - Security: missions/security.md
       - Mining: missions/mining.md
       - Distribution: missions/distribution.md
-      - Epic Arcs: missions/epic-arcs.md
+      - Epic Arcs:
+          - Overview: missions/epic-arcs/index.md
+          - The Blood-Stained Stars: missions/epic-arcs/the-blood-stained-stars.md
+          - Empire Epic Arcs: missions/epic-arcs/empire-epic-arcs.md
 
   - Abyss:
       - Overview: abyss/index.md

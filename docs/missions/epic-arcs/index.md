@@ -108,3 +108,10 @@ Dadurch bieten Epic Arcs etwas mehr Abwechslung als normale Missionen.
 Epic Arcs sind längere, wiederholbare Missionsreihen mit mehr Struktur, mehr Story und oft sehr guten **Standing-Belohnungen**.
 
 Für Anfänger ist vor allem der **Sisters of EVE Epic Arc "The Blood-Stained Stars"** interessant, da er einen guten Einstieg in längere PvE-Inhalte bietet und von CCP selbst als sinnvoller nächster Schritt nach den Career Agents genannt wird.
+
+---
+
+## Unterseiten
+
+- [The Blood-Stained Stars](the-blood-stained-stars.md)
+- [Empire Epic Arcs](empire-epic-arcs.md)

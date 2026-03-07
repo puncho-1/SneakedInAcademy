@@ -280,3 +280,16 @@ Beispiele:
 - PvP Schiff → Schaden + Warp Scrambler + Webifier  
 
 Versuche nicht, **alles gleichzeitig zu fitten**. Ein spezialisiertes Schiff ist fast immer stärker.
+
+---
+
+# Fit Collections
+
+Die konkreten Fits sind jetzt nach Einsatzgebiet gruppiert:
+
+- [Faction Warfare](faction-warfare/index.md)
+- [Abyss](abyss/index.md)
+- [Missions](missions/index.md)
+- [Mining](mining/index.md)
+- [Logistics](logistics/index.md)
+- [Hauler](hauler/index.md)

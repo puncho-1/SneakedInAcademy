@@ -20,8 +20,8 @@ Kleine, wendige Schiffe für Anfänger und spezielle Aufgaben.
 
 Mittelgroße Schiffe, ideal für neue Spieler im PvE.
 
-- [Caracal](beginner-cruisers/caracal.md) – Ein Caldari-Cruiser mit Fokus auf Missile-Damage.
-- [Rupture](beginner-cruisers/rupture.md) – Ein Minmatar-Cruiser mit starker Artillerie.
+- [Caracal](beginner_cruisers/caracal.md) – Ein Caldari-Cruiser mit Fokus auf Missile-Damage.
+- [Rupture](beginner_cruisers/rupture.md) – Ein Minmatar-Cruiser mit starker Artillerie.
 
 ### Advanced
 

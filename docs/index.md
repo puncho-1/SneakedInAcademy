@@ -24,8 +24,8 @@ Alles rund um Ressourcen und Produktion.
 Übersicht über wichtige Schiffe und ihre Rollen.
 
 - [Kikimora](ships/frigates-destroyers/kikimora.md)
-- [Caracal](ships/beginner-cruisers/caracal.md)
-- [Rupture](ships/beginner-cruisers/rupture.md)
+- [Caracal](ships/beginner_cruisers/caracal.md)
+- [Rupture](ships/beginner_cruisers/rupture.md)
 - [Eagle](ships/advanced/eagle.md)
 - [T1 Logistics](ships/support/t1-logistics.md)
 
@@ -33,15 +33,14 @@ Alles rund um Ressourcen und Produktion.
 
 ## Fitting
 
-Grundlagen für verschiedene Schiffsklassen.
+Grundlagen und Fits, nach Einsatzgebiet geordnet.
 
-TODO
-<!-- - [Frigate Fittings](ships/frigates.md) -->
-<!-- - [Destroyer Fittings](fittings/destroyers.md) -->
-<!-- - [Cruiser Fittings](fittings/cruisers.md) -->
-<!-- - [Battleship Fittings](fittings/battleships.md) -->
-<!-- - [Logistics Fittings](fittings/logistics.md) -->
-<!-- - [Abyss Fittings](fittings/abyss.md) -->
+- [Faction Warfare Fits](fittings/faction-warfare/index.md)
+- [Abyss Fits](fittings/abyss/index.md)
+- [Mission Fits](fittings/missions/index.md)
+- [Mining Fits](fittings/mining/index.md)
+- [Logistics Fits](fittings/logistics/index.md)
+- [Hauler Fits](fittings/hauler/index.md)
 
 ---
 
@@ -52,7 +51,7 @@ TODO
 - [Security Missions](missions/security.md)
 - [Mining Missions](missions/mining.md)
 - [Distribution Missions](missions/distribution.md)
-- [Epic Arcs](missions/epic-arcs.md)
+- [Epic Arcs](missions/epic-arcs/index.md)
 
 ### Abyss
 

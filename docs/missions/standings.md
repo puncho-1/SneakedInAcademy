@@ -1,10 +1,10 @@
 # Standings
 
-**Standings** bestimmen in EVE Online, wie gut dein Verhältnis zu einer **NPC Corporation oder Fraktion** ist.
+**Standings** bestimmen in EVE Online, wie gut dein Verhältnis zu einer **NPC Corporation**, einer **Fraktion** oder einem **einzelnen Agenten** ist.
 
 Ein höheres Standing ermöglicht dir den Zugang zu **besseren Agenten und Missionen**.
 
-Standings sind daher besonders wichtig für Spieler, die **Missionen laufen**.
+Standings sind daher besonders wichtig für Spieler, die regelmäßig **Missionen fliegen** oder gezielt bestimmte NPC Corporations freischalten möchten.
 
 ---
 
@@ -16,7 +16,7 @@ Es gibt drei wichtige Arten von Standings.
 
 Standing zu einem **einzelnen Agenten**.
 
-Dieses Standing ist meist weniger wichtig, da Agenten hauptsächlich durch **Corporation Standing** freigeschaltet werden.
+Dieses Standing ist meist weniger wichtig als **Corporation Standing** oder **Faction Standing**, kann aber zusätzlich den Zugang zu einzelnen Agenten beeinflussen.
 
 ---
 
@@ -30,7 +30,7 @@ Beispiele:
 - Sisters of EVE
 - Federal Navy
 
-Dieses Standing bestimmt, **welche Missionslevel du annehmen darfst**.
+Dieses Standing bestimmt in vielen Fällen, **welche Missionslevel du annehmen darfst**.
 
 | Level | benötigtes Standing |
 |---|---|
@@ -38,6 +38,8 @@ Dieses Standing bestimmt, **welche Missionslevel du annehmen darfst**.
 | Level 2 | 1.0 |
 | Level 3 | 3.0 |
 | Level 4 | 5.0 |
+
+In der Praxis ist **Corporation Standing** oft das wichtigste Standing für Mission Runner.
 
 ---
 
@@ -55,10 +57,11 @@ Beispiele:
 Faction Standing beeinflusst:
 
 - Zugang zu bestimmten Agenten
-- Reaktionen der NPC Fraktionen
-- Navy NPCs in Highsec
+- dein generelles Verhältnis zu einer Fraktion
+- Reaktionen von NPC-Fraktionen
+- dein Verhalten in fremdem Highsec
 
-Sehr negatives Standing kann dazu führen, dass **NPC Navy-Schiffe dich angreifen**.
+Sehr negatives **Faction Standing** kann dazu führen, dass dich die Navy dieser Fraktion in ihren Highsec-Systemen verfolgt oder angreift.
 
 ---
 
@@ -66,15 +69,13 @@ Sehr negatives Standing kann dazu führen, dass **NPC Navy-Schiffe dich angreife
 
 Standing wird hauptsächlich durch **Missionen** erhöht.
 
-Nach Abschluss einer Mission erhältst du:
+Nach Abschluss einer Mission erhältst du in der Regel:
 
 - ISK
 - Loyalty Points
 - Standing
 
-Zusätzlich gibt es gelegentlich **Storyline Missionen**.
-
-Diese erscheinen etwa alle **16 Missionen** und geben deutlich mehr Standing.
+Zusätzlich gibt es gelegentlich **Storyline Missionen**, die besonders wichtig für den Standing-Fortschritt sind.
 
 ---
 
@@ -84,16 +85,45 @@ Storyline Missionen sind spezielle Missionen, die von **besonderen Agenten** ang
 
 Eigenschaften:
 
-- geben **sehr viel Standing**
-- verbessern oft **Faction Standing**
+- geben **deutlich mehr Standing**
+- verbessern oft dein **Faction Standing**
 - können auch negative Effekte auf andere Fraktionen haben
+
+Nach **16 abgeschlossenen regulären Missionen** derselben Fraktion und desselben Missionstyps wird in der Regel eine **Storyline Mission** angeboten.
+
+Gerade diese Missionen sind einer der wichtigsten Wege, um langfristig gutes Standing aufzubauen.
+
+---
+
+# Abgeleitete Standings
+
+Wenn du Standing bei einer Fraktion erhöhst, kann sich das auch auf andere Fraktionen auswirken.
+
+Das bedeutet:
+
+- bessere Standings bei einer Fraktion können andere Fraktionen verschlechtern
+- Missionen gegen bestimmte Empire-Fraktionen können dein Standing bei diesen Fraktionen senken
+- Storyline Missionen haben oft stärkere Auswirkungen als normale Missionen
+
+Darum solltest du aufpassen, gegen wen du regelmäßig Missionen fliegst.
 
 ---
 
 # Tipps für neue Spieler
 
-- konzentriere dich auf **eine NPC Corporation**
+- konzentriere dich zuerst auf **eine NPC Corporation**
 - erledige regelmäßig **Storyline Missionen**
-- vermeide Missionen gegen **andere Fraktionen**, wenn du ihr Standing behalten möchtest
+- vermeide Missionen gegen **andere Fraktionen**, wenn du deren Standing behalten möchtest
+- achte darauf, welche Fraktion oder Corporation du langfristig nutzen willst
 
-Ein gutes Standing ermöglicht dir Zugang zu **Level 3 und Level 4 Missionen**, die deutlich mehr ISK einbringen.
+Ein gutes Standing ermöglicht dir Zugang zu **Level 3 und Level 4 Missionen**, die deutlich mehr ISK und Loyalty Points einbringen.
+
+---
+
+# Kurzfazit
+
+Standings sind ein wichtiger Teil des Mission-Runnings in EVE Online.
+
+Vor allem **Corporation Standing** und **Faction Standing** entscheiden darüber, welche Agenten und Missionen dir offenstehen.
+
+Wer langfristig Missionen fliegen möchte, sollte gezielt an seinem Standing arbeiten und dabei auch die Auswirkungen auf andere Fraktionen im Blick behalten.
