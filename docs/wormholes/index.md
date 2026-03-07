@@ -94,7 +94,7 @@ Für komplette Anfänger sind Wormholes nicht immer der erste Schritt, aber sie 
 - [Wormhole Basics](basics.md)
 - [Exploration Overview](../exploration/index.md)
 - [Scanning](../exploration/scanning.md)
-- [Gas Harvesting Basics](../industry/mining/gas.md)
+- [Gas Harvesting Basics](gas.md)
 - [Wormhole Safety](safety.md)
 
 ---
