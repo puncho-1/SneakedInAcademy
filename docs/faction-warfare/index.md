@@ -1,195 +1,147 @@
 # Faction Warfare Overview
 
-Faction Warfare (FW) ist der strukturierte Krieg zwischen den vier Empire-Fraktionen in EVE Online:  
-**Amarr vs. Minmatar** und **Caldari vs. Gallente**.
+**Faction Warfare** oder kurz **FW** ist einer der direktesten Wege in **EVE Online**, um regelmäßig PvP zu finden.
 
-Spieler schließen sich einer Seite an, kämpfen um Systeme in den Warzones, verdienen **Loyalty Points (LP)** und bekommen schnellen Zugang zu **PvP mit klaren Zielen**.
+Dabei schließen sich Spieler einer Fraktion an und kämpfen in klar definierten Warzones um Systeme, Fortschritt und Belohnungen. Für viele Spieler ist FW deshalb der erste richtige Zugang zu Lowsec-PvP mit einem festen Rahmen und nachvollziehbaren Zielen.
 
-FW ist besonders attraktiv, weil es mehrere Dinge gleichzeitig bietet:
+FW ist besonders attraktiv, weil mehrere Dinge zusammenkommen:
 
-- leicht zugängliches PvP
-- solo, small gang und Fleet Content
-- LP als Belohnungssystem
-- klare Kampfzonen durch **Frontline / Command Operations / Rearguard**
-- zusätzliche strategische Tiefe durch das **Advantage-System**
-
----
-
-## Was ist Faction Warfare?
-
-Im Kern geht es darum, für eine Fraktion Systeme zu **angreifen, zu verteidigen und zu halten**.
-
-Dazu werden FW-Sites abgeschlossen, gegnerische Spieler bekämpft und strategische Ziele innerhalb der Warzone beeinflusst.
-
-Die neueren FW-Systeme wurden von CCP bewusst so gestaltet, dass Spieler schneller erkennen, **wo die Action ist** und **welche Systeme besonders wichtig sind**.
+- schneller Zugang zu PvP
+- Kämpfe in klaren Warzones
+- solo, duo, small gang oder Fleet möglich
+- **Loyalty Points (LP)** als direkte Belohnung
+- Mischung aus direktem Kampf und strategischem Fortschritt
 
 ---
 
-## Die 4 Fraktionen
+## Was Faction Warfare ist
 
-| Kriegsschauplatz | Fraktion 1 | Fraktion 2 |
+Im Kern ist Faction Warfare der Krieg zwischen den Empire-Fraktionen in Lowsec.
+
+Die klassische FW besteht aus zwei Konflikten:
+
+| Warzone | Fraktion 1 | Fraktion 2 |
 |---|---|---|
 | Amarr-Minmatar Warzone | Amarr Empire | Minmatar Republic |
 | Caldari-Gallente Warzone | Caldari State | Gallente Federation |
 
-Diese beiden Konflikte bilden die klassischen FW-Warzones in Lowsec.
+Spieler kämpfen dabei um Systeme, schließen FW-Sites ab und beeinflussen den Zustand der Warzone.
+
+---
+
+## Was FW besonders macht
+
+FW ist nicht einfach nur „irgendwo im Lowsec nach Gegnern suchen“.
+
+Stattdessen verbindet es:
+
+- PvP mit klaren Kampfzonen
+- LP als wirtschaftliche Belohnung
+- strategischen Fortschritt in der Warzone
+- eine relativ niedrige Einstiegshürde durch günstige Schiffe
+- viel regelmäßigen Content ohne lange Suche
+
+Gerade deshalb ist FW für viele Spieler einer der angenehmsten Einstiege in PvP.
+
+---
+
+## Die Warzone-Struktur
+
+Die Warzone ist heute stärker strukturiert als früher.
+
+Wichtige Systemtypen sind:
+
+| Systemtyp | Bedeutung |
+|---|---|
+| Frontline | direkt an feindliche Systeme angrenzend |
+| Command Operations | unterstützen die Front |
+| Rearguard | Rückraum hinter der Front |
+
+### Frontline
+
+**Frontline-Systeme** sind die wichtigsten aktiven Kampfgebiete.
+
+Dort:
+
+- ist meist am meisten los
+- sind Belohnungen besonders interessant
+- entstehen viele direkte Kämpfe
+- entscheidet sich oft, wie sich die Warzone entwickelt
+
+### Command Operations
+
+**Command Operations** liegen hinter der Front und unterstützen den Krieg indirekter.
+
+Sie sind strategisch wichtig, aber meist nicht ganz so direkt umkämpft wie Frontlines.
+
+### Rearguard
+
+**Rearguard-Systeme** sind Rückraum-Systeme.
+
+Sie sind oft ruhiger und eher für Vorbereitung, Bewegung oder weniger direkten Druck relevant.
+
+---
+
+## Advantage und Kriegsfortschritt
+
+FW besteht nicht nur aus einzelnen Fights.
+
+Mit dem **Advantage-System** und dem allgemeinen Systemfortschritt gibt es zusätzlich eine strategische Ebene. Das bedeutet vereinfacht:
+
+- nicht nur Kills zählen
+- auch Aktivität in der Warzone beeinflusst Systeme
+- bestimmte Systeme und Aktionen stärken die eigene Fraktion
+
+FW ist also gleichzeitig:
+
+- ein PvP-Gebiet
+- ein LP-System
+- ein Kriegssystem mit Fortschritt
 
 ---
 
 ## Pirate Insurgencies
 
-Neben der klassischen **Empire Faction Warfare** gibt es inzwischen auch **Pirate Insurgencies**.
+Neben der klassischen Empire-FW gibt es inzwischen auch **Pirate Insurgencies**.
 
-Dabei können sich Spieler mit den **Angel Cartel** oder den **Guristas Pirates** verbünden und in den Warzones der Empire-Fraktionen kämpfen.
-
-Diese Pirate-Gameplay-Schiene gehört zum erweiterten **Faction Warfare-Ökosystem**, funktioniert aber nicht einfach wie eine zusätzliche normale Empire-Miliz.
+Dabei treten zusätzliche Piratenfraktionen im erweiterten FW-Ökosystem auf:
 
 | Piratenfraktion | Zielgebiet |
 |---|---|
 | Angel Cartel | Amarr-Minmatar Warzone |
 | Guristas Pirates | Caldari-Gallente Warzone |
 
-Pirate Insurgencies bringen zusätzliche Ziele, Belohnungen und Spielmechaniken in die Warzones und erweitern das klassische FW-System um einen weiteren Konfliktlayer.
+Wichtig ist dabei:
+
+- Pirate Insurgencies sind nicht einfach nur zwei weitere normale Empire-Milizen
+- sie erweitern das FW-System um einen zusätzlichen Konfliktlayer
+- für Anfänger ist es sinnvoll, zuerst die klassische Empire-FW zu verstehen
 
 ---
 
-## Wie man teilnimmt
+## Warum FW für viele Spieler so beliebt ist
 
-| Möglichkeit | Beschreibung |
-|---|---|
-| Corporation / Alliance Enlistment | Deine Corp oder Allianz schließt sich einer Fraktion an |
-| Direkte Teilnahme als Spieler | Einzelne Spieler können direkt für eine Fraktion kämpfen |
-| FW-Events / thematische Inhalte | Je nach Update oder Kampagne können zusätzliche Beteiligungsformen auftauchen |
+FW passt gut zu Spielern, die:
 
-Die genaue Form der Teilnahme wurde in den letzten Jahren ausgebaut, um den Einstieg zu erleichtern und FW zugänglicher zu machen.
+- regelmäßig PvP wollen
+- nicht stundenlang nach Kämpfen suchen möchten
+- mit günstigen Schiffen starten wollen
+- Lowsec besser verstehen möchten
+- neben PvP auch LP verdienen möchten
 
----
-
-## Systemtypen in der Warzone
-
-Die Warzone ist nicht mehr einfach nur ein Haufen zufälliger Systeme. CCP hat die Gebiete in **strategische Kategorien** aufgeteilt:
-
-| Systemtyp | Bedeutung | Typische Rolle |
-|---|---|---|
-| Frontline | Direkt an feindliche Systeme angrenzend | Hauptkampfraum, höchste Belohnungen |
-| Command Operations | An Frontlines angrenzend, aber nicht direkt an feindliche Systeme | Unterstützungs- und Vorbereitungsraum |
-| Rearguard | Weder Frontline noch Command Operations | Vergleichsweise sicherer Rückraum |
-
-**Frontline-Systeme** bringen die höchsten Belohnungen und sind der Ort, an dem am häufigsten Kämpfe eskalieren.  
-**Command Operations** dienen als operative Tiefe hinter der Front.  
-**Rearguard-Systeme** sind meist ruhiger und besser für Logistik, Vorbereitung oder defensiveres Spiel geeignet.
+Gerade diese Mischung aus **Lernen**, **Belohnung** und **regelmäßigem Content** macht FW so stark.
 
 ---
 
-## Warum Frontlines wichtig sind
+## Hauptthemen
 
-| Punkt | Warum wichtig |
-|---|---|
-| Höhere Rewards | Frontlines geben die besten LP-/Konfliktanreize |
-| Mehr PvP | Dort suchen die meisten Spieler aktiv Kämpfe |
-| Schnellere Systemveränderungen | Frontlines sind entscheidend für Gebietswechsel |
-| Bessere Zielklarheit | Spieler sehen schneller, wo sie hinmüssen |
-
-Das war eine der großen Design-Änderungen von CCP: Action sollte gebündelt und verständlicher werden.
-
----
-
-## Das Advantage-System
-
-Neben dem direkten Capturen von Systemen gibt es das **Advantage-System**.  
-Es bestimmt mit, wie stark die eigene Fraktion in einem System strategisch im Vorteil ist.
-
-| Faktor | Einfluss auf Advantage |
-|---|---|
-| Besitz benachbarter Frontline- und Command-Systeme | Gibt der Fraktion Geländevorteile |
-| Aktivitäten in der Warzone | Tragen zum strategischen Druck bei |
-| Bestimmte FW-Sites / Aufgaben | Erhöhen oder stützen den Vorteil |
-| Strukturen / warzonenbezogene Inhalte | Können zusätzliche Effekte liefern |
-
-Je höher der Vorteil deiner Fraktion ist, desto stärker wirkt sich das auf den Kampf um das System und dessen Fortschritt aus.
-
-CCP beschreibt Advantage ausdrücklich als System, das den Krieg nicht nur über Kills, sondern auch über **strategische Aktivität in der gesamten Warzone** beeinflusst.
-
----
-
-## Typische Inhalte in FW
-
-| Aktivität | Kurzbeschreibung |
-|---|---|
-| Plexing / Site Running | FW-Komplexe angreifen oder verteidigen |
-| Solo PvP | Einer der häufigsten Einstiege in Lowsec-PvP |
-| Small Gang PvP | Sehr typischer FW-Content |
-| Fleet Warfare | Organisierte Flottenkämpfe um wichtige Systeme |
-| LP Farming | LP durch aktives Spielen verdienen |
-| Defensive / Offensive Warzone-Arbeit | Systeme halten oder kippen |
-
-FW ist deshalb beliebt, weil du fast jede PvP-Größe findest:  
-vom **1v1 oder kleinem Frig-Duell** bis zur größeren organisierten Flotte.
-
----
-
-## Belohnungen in Faction Warfare
-
-| Belohnung | Erklärung |
-|---|---|
-| Loyalty Points (LP) | Wichtigste direkte FW-Belohnung |
-| PvP-Content | Regelmäßige Kämpfe mit wenig Suchaufwand |
-| Standings / Fraktionsfortschritt | Fortschritt innerhalb der gewählten Fraktion |
-| Zugang zu konstantem Lowsec-Gameplay | Gute Lernumgebung für PvP und Movement |
-
-Die Belohnungen sind bewusst stärker an die aktiven Kriegszonen gekoppelt worden. Besonders **Frontlines** sind dafür zentral.
-
-Wichtig: **FW-Rangaufstiege** verursachen inzwischen keine negativen abgeleiteten Standings mehr; dabei gibt es nur noch positive Standings für die FW-Fraktion, für die man befördert wird.
-
----
-
-## Für wen FW besonders gut geeignet ist
-
-| Spielertyp | Warum FW passt |
-|---|---|
-| Neue PvP-Spieler | Klare Ziele, viele kleine Kämpfe, überschaubare Schiffe |
-| Solo-Spieler | Häufig gute 1v1- und Kleinschiff-Möglichkeiten |
-| Small Gangs | Sehr viele passende Ziele und Räume |
-| Corp-Gruppen | Gute Mischung aus Content, LP und Struktur |
-| Spieler mit wenig Zeit | Schneller Content ohne lange Vorbereitung |
-
----
-
-## Vorteile und Nachteile
-
-| Vorteile | Nachteile |
-|---|---|
-| Schneller Zugang zu PvP | Häufiges Verlustrisiko |
-| Gute LP-Einnahmen möglich | Travel kann riskant sein |
-| Gute Lernumgebung für Lowsec | Nicht jeder Kampf ist fair |
-| Solo bis Fleet spielbar | Je nach Gebiet starke Gegnergruppen |
-| Klare Fronten und Ziele | Standings / Fraktionsbindung können relevant sein |
-
----
-
-## Typischer Einstieg für Anfänger
-
-| Schritt | Empfehlung |
-|---|---|
-| 1 | Einer Fraktion beitreten |
-| 2 | Günstige Frigs und Destroyer vorbereiten |
-| 3 | In Frontline-Systemen kleine FW-Sites suchen |
-| 4 | Mit Verlusten rechnen und daraus lernen |
-| 5 | Erst solo oder duo starten, dann Gruppencontent ergänzen |
-
-Für viele Spieler ist FW einer der besten Wege, um **PvP wirklich zu lernen**, weil du regelmäßig echte Gegner triffst und nicht stundenlang nach Content suchen musst.
-
-Das ist auch ein Kernziel der FW-Überarbeitung gewesen.
+- [Faction Warfare Basics](fw-basics.md)
+- [Faction Warfare Sites](fw-sites.md)
 
 ---
 
 ## Kurzfazit
 
-Faction Warfare ist einer der direktesten Wege in EVE, um:
+**Faction Warfare** ist einer der besten Wege in **EVE Online**, um regelmäßig PvP zu finden und dabei gleichzeitig **LP**, Erfahrung und Lowsec-Routine aufzubauen.
 
-- regelmäßig PvP zu finden
-- ISK/LP zu verdienen
-- Lowsec und Kampfmechaniken zu lernen
-- solo oder in kleinen Gruppen aktiv zu sein
-
-Mit den Systemen **Frontline**, **Command Operations**, **Rearguard** und **Advantage** ist FW heute deutlich strukturierter als früher und gibt Spielern viel besser vor, **wo gekämpft wird und warum**.
+Gerade weil FW klare Warzones, natürliche Kampfgebiete und eine Mischung aus direktem PvP und strategischem Fortschritt bietet, ist es für viele Spieler einer der besten Einstiege in aktives PvP.
