@@ -59,6 +59,19 @@ Grundlagen und Fits, nach Einsatzgebiet geordnet.
 - [Solo Abyss Fits](fittings/abyss/single/index.md)
 - [Gila T4 Guide](fittings/abyss/single/gila-t4.md)
 
+### Exploration
+
+- [Exploration Overview](exploration/index.md)
+- [Scanning](exploration/scanning.md)
+- [Hacking](exploration/hacking.md)
+- [Relic and Data Sites](exploration/sites.md)
+
+### Wormholes
+
+- [Wormhole Overview](wormholes/index.md)
+- [Wormhole Basics](wormholes/basics.md)
+- [Wormhole Safety](wormholes/safety.md)
+
 ---
 
 ## PvP
