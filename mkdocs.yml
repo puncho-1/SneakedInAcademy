@@ -114,8 +114,8 @@ nav:
           - Ores: industry/mining/ores.md
           - Ice: industry/mining/ice.md
           - Gas: industry/mining/gas.md
-          - Mining Waste: industry/mining/mining-waste.md
-          - Critical-Hit Mining: industry/mining/mining-critical-hits.md
+          - Waste: industry/mining/mining-waste.md
+          - Critical-Hits: industry/mining/mining-critical-hits.md
       - Production:
           - Basics: industry/production/index.md
       - Research:
