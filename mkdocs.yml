@@ -110,6 +110,17 @@ nav:
             - Step 3: abyss/zero-to-omega/step3.md
             - Step 4: abyss/zero-to-omega/step4.md
 
+  - Exploration:
+      - Overview: exploration/index.md
+      - Scanning: exploration/scanning.md
+      - Hacking: exploration/hacking.md
+      - Relic & Data Sites: exploration/sites.md
+
+  - Wormholes:
+      - Overview: wormholes/index.md
+      - Basics: wormholes/basics.md
+      - Safety: wormholes/safety.md
+
   - Links:
       - Overview: links/index.md
       - Maps: links/maps.md
