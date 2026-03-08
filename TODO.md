@@ -4,12 +4,12 @@
 
 Diese Themen bringen neuen Spielern und Corp-Mitgliedern am schnellsten einen direkten Nutzen.
 
-- [ ] Abgespeckte Magic 14
-- [ ] Wichtige Skills erklärt
-- [ ] Erklärung, wofür wichtige Skills konkret gebraucht werden
-- [ ] D-Scan Nutzung
-- [ ] Flottenbefehle
-- [ ] Flottenverhalten
+- [x] Abgespeckte Magic 14
+- [x] Wichtige Skills erklärt
+- [x] Erklärung, wofür wichtige Skills konkret gebraucht werden
+- [x] D-Scan Nutzung
+- [x] Flottenbefehle
+- [x] Flottenverhalten
 
 ---
 

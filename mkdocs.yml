@@ -19,6 +19,16 @@ theme:
 nav:
   - Home: index.md
 
+  - Getting Started:
+      - Overview: getting-started/index.md
+      - Magic 14 Light: getting-started/magic-14-light.md
+      - Wichtige Skills erklärt: getting-started/basic-skills.md
+      - D-Scan Nutzung: getting-started/d-scan-basics.md
+      - Flottenbefehle: getting-started/fleet-commands.md
+      - Flottenverhalten: getting-started/fleet-discipline.md
+      - Interceptor Skillplan Light: getting-started/interceptor-skillplan-light.md
+      - Mining Skillplan Light: getting-started/mining-light.md
+
   - Ships:
       - Overview: ships/index.md
       - Frigates & Destroyers:
