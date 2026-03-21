@@ -43,6 +43,6 @@ Für ein simples Einsteiger-Setup sinnvoll:
 
 ## Weitere Informationen
 
-- [Mining Übersicht](../../../fittings/mining/index.md)
+- [Mining Übersicht](../../fittings/mining/index.md)
 - [Wichtige Skills erklärt](../basic-skills.md)
 - [Mining Skillplan Light](mining-light.md)

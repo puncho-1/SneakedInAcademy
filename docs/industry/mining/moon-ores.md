@@ -153,7 +153,7 @@ Sie sind besonders wichtig für:
 
 - [Mining Basics](mining-basics.md)
 - [Ores](ores.md)
-- [Reactions](../../reactions.md)
+- [Reactions](../reactions.md)
 
 Deshalb sind gute Monde oft strategisch relevant und nicht nur einfach eine nette Mining-Gelegenheit.
 
