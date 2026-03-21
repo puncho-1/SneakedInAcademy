@@ -18,10 +18,10 @@ Diese Themen bringen neuen Spielern und Corp-Mitgliedern am schnellsten einen di
 Hier sollten komplette Themenblöcke entstehen, die zusammenhängend verständlich sind.
 
 ### Mining
-- [ ] Mining Basics erweitern / abrunden
-- [ ] Moon Ores
-- [ ] Skillplan: Pioneer
-- [ ] Skillplan: Barges
+- [x] Mining Basics erweitern / abrunden
+- [x] Moon Ores
+- [x] Skillplan: Pioneer
+- [x] Skillplan: Barges
 - [ ] Mining-Schiffe
 - [ ] Mining-Fittings
 

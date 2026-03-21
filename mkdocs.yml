@@ -21,13 +21,16 @@ nav:
 
   - Getting Started:
       - Overview: getting-started/index.md
-      - Magic 14 Light: getting-started/magic-14-light.md
       - Wichtige Skills erklärt: getting-started/basic-skills.md
       - D-Scan Nutzung: getting-started/d-scan-basics.md
       - Flottenbefehle: getting-started/fleet-commands.md
       - Flottenverhalten: getting-started/fleet-discipline.md
-      - Interceptor Skillplan Light: getting-started/interceptor-skillplan-light.md
-      - Mining Skillplan Light: getting-started/mining-light.md
+      - Skillplans Overview:
+        - Mining Skillplan Light: getting-started/skill-plans-overview/mining-light.md
+        - Interceptor Skillplan Light: getting-started/skill-plans-overview/interceptor-skillplan-light.md
+        - Magic 14 Light: getting-started/skill-plans-overview/magic-14-light.md
+        - Pioneer Minimal: getting-started/skill-plans-overview/minimal-pioneer.md
+        - Barges Minimal: getting-started/skill-plans-overview/minimal-barges.md
 
   - Ships:
       - Overview: ships/index.md
@@ -122,6 +125,7 @@ nav:
       - Mining:
           - Basics: industry/mining/mining-basics.md
           - Ores: industry/mining/ores.md
+          - Moon Ores: industry/mining/moon-ores.md
           - Ice: industry/mining/ice.md
           - Gas: industry/mining/gas.md
           - Waste: industry/mining/mining-waste.md
